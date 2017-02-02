@@ -24,8 +24,8 @@ Im Sommer 2016 wurde ich von [{{site.data.agencies.moresleep.name}}](site.data.a
 
 Nach einem ersten Meeting war klar, dass sich nicht nur die gestellten Fragen häufig ändern würden, sondern auch die Grafiken sowie Animationen, welche von anderen Team-Mitgliedern immer wieder neu geliefert und integriert werden würden. Die Herausforderung bestand dann darin, den Auftraggebern und Kunden immer eine aktuelle Version präsentieren zu können.
 
-Die Fragen und Antwortmöglichkeiten wurden in einem Google Drive Spreadsheet abgelegt und immer wieder aktualisiert, sowie die Designs und Animationen und Quellcode in einem git-repository welches ständig neu in einer für den Kunden zugänglichen Version ausgespielt wurde (heroku). So konnte ganz unabhängig von anderen Team-Mitgliedern immer wieder eine neue Version präsentiert werden - wenn nötig.
+Die Fragen und Antwortmöglichkeiten wurden in einem Google Drive-Spreadsheet abgelegt und immer wieder aktualisiert. Designs, Animationen und Quellcode befinden sich in einem git-repository, das in einer dem Kunden zugänglichen Version ständig neu ausgespielt wurde ([heroku](https://www.heroku.com/)). So konnte ganz unabhängig von anderen Team-Mitgliedern immer wieder eine neue Version präsentiert werden - wenn nötig.
 
-Mein Teil zur Realisierung lag darin, die Spielmechanik zu realisieren und entsprechende Tests welche die Zuverlässigkeit der Ergebnisse sicherstellen sowie die Integration in die Technik-Website von Zalando.
+Mein Teil zur Realisierung lag darin, die Spielmechanik zu realisieren und entsprechende Tests welche die Zuverlässigkeit der Ergebnisse sicherstellen sowie die Integration in die Technik-Website von [{{site.data.clients.zalando.name}}]({{site.data.clients.zalando.url}}).
 
 Ich bin sehr glücklich darüber mit der mir aus den alten Zeiten bekannten Agentur MoreSleep zusammen arbeiten zu können sowie mit so talentierten und engagierten Leuten wie Marc Storch.
