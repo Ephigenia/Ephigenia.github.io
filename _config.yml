@@ -10,7 +10,7 @@ title: Marcel Eichner
 email: love@ephigenia.de
 description: Website of Marcel Eichner, full-stack Javascript & PHP web developer from Berlin.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.marceleichner.de" # the base hostname & protocol for your site
+url: http://www.ephigenia.de # the base hostname & protocol for your site
 twitter_username: ephigenia
 github_username:  Ephigenia
 gitlab_username: ephigenia
