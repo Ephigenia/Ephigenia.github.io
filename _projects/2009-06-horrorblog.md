@@ -7,13 +7,46 @@ published: false
 tags:
     - PHP
     - CMS
+    - Public Relations
+    - Marketing
+    - Publishing
 ---
-<!--
 
-Entwicklung modulares, high-performance Blog-System • Aufbau von Social Media Kanälen
-• Redaktionelle Arbeit, Projektmanagement, Pressearbeit • Signi kante Performance-Optimierungen im Frontend-
-wie Backend
-• Entwicklung einer auf backbone.js und Baker basierenden
-mobilen iPad App mit multimedialen Inhalten • Responsive Website für mobile Geräte
+# Redaktion
 
--->
+- Anspruch
+• Redaktionelle Arbeit, Projektmanagement, Pressearbeit
+IMDB listing
+reviews
+pressevorfürhungen
+praktikanten
+
+performance in zahlen pageviews, ad networks
+
+# parties
+
+--poster--
+parties: http://www1.stadtkind.com/2010-10/halloweenparty-mit-horrorblog.htm
+
+# Technik
+
+jiffybox
+deployment
+git
+--website--screen-mobile-and-normal--
+
+## CMS
+
+Entwicklung modulares, high-performance Blog-System • Aufbau von Social Media Kanälen Performance-Optimierungen im Frontend-wie Backend
+
+## iPad Magazin App
+
+Ende 2011
+<iframe src="https://player.vimeo.com/video/33412834" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/33412834">Horrorblog.org Magazine Dummy</a> from <a href="https://vimeo.com/ephigenia">Marcel Eichner</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+# Ende
+
+exit 1k
+https://www.nightmare-horrormovies.de/
