@@ -28,6 +28,8 @@ bevation:
   name: BeVation
 cazal:
   name: Cazal Eyewear
+cgoal:
+  name: C-Goal Sports Training System GmbH
 crescon:
   name: Crescon AG
 csnmetals:
@@ -94,8 +96,13 @@ photocase:
   name: Photocase
 pps:
   name: Presse-Programm-Service (PPS)
+rbb:
+  name: RBB
+  url: http://www.rbb-online.de/
 satoshipay:
   name: Satoshipay
+spar:
+  name: SPAR
 styleheads:
   name: Styleheads
   url: http://www.styleheads.de/
@@ -112,6 +119,9 @@ susannepaschke:
   name: Susanne Paschke
 tab:
   name: TAB-Ticketbroker
+toocan:
+  name: Toocan GmbH
+  url: http://www.toocan.biz
 trademob:
   name: Trademob
 tripsbytips:
