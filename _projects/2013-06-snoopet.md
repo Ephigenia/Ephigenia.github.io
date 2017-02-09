@@ -28,6 +28,11 @@ tags:
 ---
 
 <!--
+
+https://www.deutsche-startups.de/2014/03/14/snoopet-schliesst-fuer-immer-seine-pforten/
+http://issnruede.de/relaunch-von-snoopet-hundebesitzer-liebet-und-mehret-euch/
+http://www.applenative.com/apps/detailseite/snoopet-hundefreunde-in-deiner-naehe
+http://www.kissnapping.de/snoopet/
 • Konzeption / Clickdummy Rich-Client Admin Anwendung
 sowie API-Spezi kation und Konzept
 • Programmierung einer Website und REST-API in Symfony2

@@ -5,10 +5,12 @@
   name: 908 Video
 abebooks:
   name: AbeBooks
+  url: https://www.abebooks.de
 accor:
   name: Accor Hotels
 aida:
-  name: AIDA
+  name: AIDA Cruises
+  url: https://www.aida.de/
 alpengluehn:
   name: Alpengluehn.ch
 berlinelektro:
@@ -21,7 +23,7 @@ bz:
   name: B.Z. Ullstein GmbH
   url: http://www.bz-berlin.de
 bertelsmann:
-  name: bertelsmann
+  name: Bertelsmann SE & Co. KGaA
   url: https://www.bertelsmann.de/#st-1
 berlinergazette:
   name: Berliner Gazette e.V.
@@ -42,6 +44,7 @@ damianfranzen:
   url: http://www.damianfranzen.de
 dmig:
   name: Design Made in Germany
+  url: https://www.designmadeingermany.de/
 db:
   name: Deutsche Bahn
   url: https://www.bahn.de/
