@@ -1,7 +1,8 @@
 1und1:
   name: 1&1
+  url: https://www.1und1.de/
 908video:
-  name:
+  name: 908 Video
 abebooks:
   name: AbeBooks
 accor:
@@ -15,6 +16,7 @@ berlinelektro:
   url: http://www.berlinelektro.biz
 bund:
   name: BUND
+  url: https://www.bund.net/
 bz:
   name: B.Z. Ullstein GmbH
   url: http://www.bz-berlin.de
@@ -42,8 +44,10 @@ dmig:
   name: Design Made in Germany
 db:
   name: Deutsche Bahn
+  url: https://www.bahn.de/
 ditt:
   name: Deutsch Italiensiches Institut für Technologietransfer (DITT)
+  url: http://www.ditt.de/
 dbbahnpark:
   name: DB BahnPark
   url: http://www.dbbahnpark.de/
@@ -88,12 +92,15 @@ mediacall:
   name: Media Call AG
 meiremeire:
   name: Meiré Meiré
+  url: http://meireundmeire.com/
 moviepilot:
   name: Moviepilot
 ni:
   name: Native Instruments
+  url: https://www.native-instruments.com
 photocase:
   name: Photocase
+  url: https://www.photocase.de/
 pps:
   name: Presse-Programm-Service (PPS)
 rbb:
@@ -101,6 +108,7 @@ rbb:
   url: http://www.rbb-online.de/
 satoshipay:
   name: Satoshipay
+  url: https://satoshipay.io/
 spar:
   name: SPAR
 styleheads:
@@ -115,17 +123,21 @@ sonyericsson:
   name: Sony Ericsson
 supermarktcheck:
   name: Supermarktcheck
+  url: http://www.supermarktcheck.de/
 susannepaschke:
   name: Susanne Paschke
 tab:
   name: TAB-Ticketbroker
+  url: https://tab-ticketbroker.de/
 toocan:
   name: Toocan GmbH
   url: http://www.toocan.biz
 trademob:
   name: Trademob
+  url: http://www.trademob.com/
 tripsbytips:
   name: Tripsbytips
+  url: http://www.tripsbytips.de/
 toocan:
   name: Toocan
   url: http://www.toocan.biz/
@@ -138,6 +150,7 @@ weinmeister:
   name: Weinmeister Hotel
 wesc:
   name: WeSC
+  url: http://www.wesc.com/
 zalando:
   name: Zalando
   url: https://tech.zalando.com/
