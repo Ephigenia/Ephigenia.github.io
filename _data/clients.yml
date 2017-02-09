@@ -1,3 +1,20 @@
+1und1:
+  name: 1&1
+908video:
+  name:
+abebooks:
+  name: AbeBooks
+accor:
+  name: Accor Hotels
+aida:
+  name: AIDA
+alpengluehn:
+  name: Alpengluehn.ch
+berlinelektro:
+  name: Berlin Elektro
+  url: http://www.berlinelektro.biz
+bund:
+  name: BUND
 bz:
   name: B.Z. Ullstein GmbH
   url: http://www.bz-berlin.de
@@ -9,15 +26,108 @@ berlinergazette:
   url: http://www.berlinergazette.de
 bevation:
   name: BeVation
+cazal:
+  name: Cazal Eyewear
+crescon:
+  name: Crescon AG
+csnmetals:
+  name: CSN Carl Schreiber
+  url: http://www.csnmetals.de
+damianfranzen:
+  name: Damian Franzen
+  url: http://www.damianfranzen.de
+dmig:
+  name: Design Made in Germany
+db:
+  name: Deutsche Bahn
+ditt:
+  name: Deutsch Italiensiches Institut für Technologietransfer (DITT)
 dbbahnpark:
   name: DB BahnPark
   url: http://www.dbbahnpark.de/
+erstererster:
+  name: ErsterErster
+escapio:
+  name: Escapio
+elelphant-hotel:
+  name: Designhotel Elephant Prag
+firstfinance:
+  name: F1rst Finance
+gebauedereinigerinnungbayern:
+  name: Gebäudereinigerinnung Bayern
+  url: http://www.gebäudereiniger-südbayern.de
+gourmondo:
+  name: Gourmondo
+hilton:
+  name: Hilton Hotels
+hlx:
+  name: HLX
+ingorobin:
+  name: Ingor Robin
+jajaah:
+  name: Jajaah Mobile
+kunstmeile-hamburg:
+  name: Kunstmeile Hamburg
+  url: http://www.kunstmeile-hamburg.de
+kuelmann:
+  name: Heinrich Kühlmann GmbH & Co. KG
+  url: http://www.kuehlmann.de/
+leading:
+  name: Lead1ng AG
+leica:
+  name: Leica
+ltur:
+  name: L’Tur
+lumisol:
+  name: Lumisol
+magari:
+  name: Magari Internet GmbH
+mediacall:
+  name: Media Call AG
+meiremeire:
+  name: Meiré Meiré
+moviepilot:
+  name: Moviepilot
+ni:
+  name: Native Instruments
+photocase:
+  name: Photocase
+pps:
+  name: Presse-Programm-Service (PPS)
+satoshipay:
+  name: Satoshipay
+styleheads:
+  name: Styleheads
+  url: http://www.styleheads.de/
+studioam:
+  name: studioam
+  url: http://studioam.de/
+studentsn:
+  name: StudentSN
+sonyericsson:
+  name: Sony Ericsson
+supermarktcheck:
+  name: Supermarktcheck
+susannepaschke:
+  name: Susanne Paschke
+tab:
+  name: TAB-Ticketbroker
+trademob:
+  name: Trademob
+tripsbytips:
+  name: Tripsbytips
 toocan:
   name: Toocan
   url: http://www.toocan.biz/
+universal:
+  name: Universal Music
 visono:
   name: Visono
   url: https://visono.biz/
+weinmeister:
+  name: Weinmeister Hotel
+wesc:
+  name: WeSC
 zalando:
   name: Zalando
   url: https://tech.zalando.com/
