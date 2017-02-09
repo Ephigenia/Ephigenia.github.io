@@ -1,11 +1,11 @@
-abebooks:
-  name: AbeBooks
-  url: https://www.abebooks.de
 1und1:
   name: 1&1
   url: https://www.1und1.de/
 908video:
   name: 908 Video
+abebooks:
+  name: AbeBooks
+  url: https://www.abebooks.de
 accor:
   name: Accor Hotels
 aida:
