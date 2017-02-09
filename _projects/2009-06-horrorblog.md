@@ -25,7 +25,9 @@ performance in zahlen pageviews, ad networks
 
 # parties
 
---poster--
+<img class="post-image-pushed-right" src="{{ site.baseurl }}/assets/horrorblog/horrorblog-org-party-poster-collage-2011.jpg" title="Posters for the Halloween Party 2011 created by Horrorblog.org Marcel Eichner" />
+
+Halloween Party 2010
 parties: http://www1.stadtkind.com/2010-10/halloweenparty-mit-horrorblog.htm
 
 # Technik
