@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+published: false
 ---
 <img class="post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/fisheye_512x512.jpg" title="Marcel Eichner" />
 
@@ -46,6 +47,22 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - MySQL, SQLLite
     - MongoDB, Firebase 
 
+    
+
+## Honors
+
+* 2012 Ort im Land der Ideen für Berliner Gazette ([source](https://www.land-der-ideen.de/365-orte/preistraeger/berliner-gazette))
+* 2010 Alternativer Medienpreis Kategorie Internet für Berliner Gazette ([source](berlinergazette.de/alternativer-medienpreis-fuer-berliner-gazette/#more-6952))
+* 2006 Red-Dot Award für Designklicks
+
+## Education
+
+* Fachhochschule für Technik und Wirtschaft (FHTW) Berlin  
+2003 – 2005 Kommunikationsdesign
+* Lily-Braun-Oberschule Berlin  
+2002 Abitur
+
+
 ## Work History
 
 - OrangeDB
@@ -59,13 +76,13 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 - Supermarkt-App
     - period: 2016-06 – 2016-09
     - client: hybridheroes
-- Visono M3 Asset Management
-    - client: visono
-    - period: 2015-08 – 2016-08
 - Zalando Radical Agility Quiz
     - client: Zalando
     - agency: moresleep
     - period: 2016-06 – 2016-08
+- Visono M3 Asset Management
+    - client: visono
+    - period: 2015-08 – 2016-08
 - Hotelnavigator  
     - client: toocan
     - period: 2014-10 – 2016-06
@@ -73,6 +90,9 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - Anforderungs-Management, Technisches- sowie inhaltliches Konzept und Projektmanagement
     - Programmierung von verschiedenen Crawlern/Scrapern welche als Queue Consumer arbeiten in node
     - Programmierung API & Web sowie Domain Logik in Symfony2, Doctrine + MongoDB
+- Satoshipay
+    - client: satoshipay
+    - period: 2015-09 – 2015-10
 - Footbonaut
     - client: cgoal
     - period: 2013 – today
@@ -93,7 +113,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - Karte & Slideshows in Bootstrap mit ~100% Testabdeckung mit mocha & phantomjs
     - API-Spezikation & Umsetzung für Artikel- und Taxonomy API
 - Snoopet
-    - client: bevation
+    - client: [bevation, bertelsmann]
     - agency: foobugs
     - period: 2013-06 – 2014-02
     - PHP, Java-Script Entwicklung, Projektmanagement
@@ -150,7 +170,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - Anbindung Warenwirtschaftssystem
 - Lead1ng AG Intranet
     - client: lead1ng
-    - period: 2010-10 – 2013-03
+    - period: 2010-03 – 2013-03
     - Frontend- und Backend-Entwicklung
     - Konzeption, Design Multi-Client Intranet-Platform
     - Datenbankmodellierung und Anbindung mit Doctrine 2
@@ -185,9 +205,15 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - Relaunch der gesamten Website auf Wordpress Basis
     - Programmierung und Integration von verschiedenen  Plugins
     - Optimierung mit Media-Queries für mobile Endgeräte
-- Berlinelektro
+- Berlinelektro Website Templates
     - client: Berlinelektro
-    - agency: 
+    - agency: elementar
+    - period: 2004-12 – 2007-02
+- Berlinelektro Website Consulting
+    - client: Berlinelektro
+    - agency: elementar
+    - period: 2010-05, 2010-10
+    - Beratung für PHP Frameworks, jQuery, Ajax
 - Kunstmeile Hamburg
     - agency: thegreeneyl
     - client: kunstmeilehamburg
@@ -201,27 +227,179 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - Integration Rabattfunktion in bestehendes Warensystem
 - Tripsbytips
     - client: tripsbytips
-    - period: 
+    - period: 2007-03 – 2007-10
 - Moviepilot Techblog
+    - client: moviepilot
+    - period: 2010-07
+    - posterous theme für’s tech blog von moviepilot
 - StundentSN
+    - client: studentsn
+    - period: 2009-12 – 2009-03
 - Kunsthochschule Köln
+    - client: Kunsthochschule Köln
 - Kühlmann
-- Designhotel Prague
+    - client: kuehlmann
+    - agency: nomoresleep
+    - period: 2009-11 – 2009-12
+- Designhotel Elphant Prague
+    - client: elelphant-hotel
+    - period: 2009-10, 2010-05
 - Weinmeister Hotel
+    - client: weinmeister
+    - period: 2010-05
 - Mongrelnation
+    - agency: nomoresleep
+    - period: 2008-11 – 2008-12
 - Universal Music Metallica Microsite
+    - client: universal
+    - agency: scco
+    - period: 2008-07 – 2008-08
 - Supermarktcheck.de
+    - agency: jwd
+    - client: supermarktcheck
+    - period: 2008-01
 - Designmadeingermany
-
-## Honors
-
-* 2012 Ort im Land der Ideen für Berliner Gazette ([source](https://www.land-der-ideen.de/365-orte/preistraeger/berliner-gazette))
-* 2010 Alternativer Medienpreis Kategorie Internet für Berliner Gazette ([source](berlinergazette.de/alternativer-medienpreis-fuer-berliner-gazette/#more-6952))
-* 2006 Red-Dot Award für Designklicks
-
-## Education
-
-* Fachhochschule für Technik und Wirtschaft (FHTW) Berlin  
-  2003 – 2005 Kommunikationsdesign
-* Lily-Braun-Oberschule Berlin  
-  2002 Abitur
+    - client: dmig
+    - period: 2001-01 – 2003
+    - PHP/HTML
+- D!’s World 
+    - agency: elementar
+    - period: 2003-04 – 2004-06 
+    - Flash, HTML, CMS, Illstration
+- Damian Franzen
+    - agency: meiremeire
+    - client: damianfranzen
+    - period: 2011-07
+- HLX Banner
+    - agency: [elementar, spacedealer]
+    - client: hlx
+    - period: 2005-12 – 2006-01
+- Lumisol
+    - agency: nomoresleep
+    - client: lumisol
+    - period: 2009-04
+- L’Tur Microsites & Landingpages, Banner
+    - agency: [elementar, spacedealer]
+    - client: ltur
+    - period: 2003-05 – 2003-08
+- AIDA Microsites & Landingpages
+    - agency: [elementar, spacedealer]
+    - client: aida
+    - period: 2005-11 – 2006-01
+- Leica Explorer Microsite
+    - client: leica
+    - agency: ulischoeberl
+    - period: 2010-09 – 2010-10
+- PPS Website Templates
+    - client: pps
+    - agency: elementar
+- Accor Hotels Banner & Booking App
+    - client: accor
+    - period: 2008-10, 2010-01 – 2010-05, 2011-04 – 2011-11
+    - agency: [elementar, spacedealer]
+- Hilton Hotels Banner & Booking App
+    - client: hilton
+    - agency: [elementar, spacedealer]
+    - period: 2005-05 – 2009-03
+    - Banner
+    - ZINC, Flash
+- Abebooks Banner
+    - client: abebooks
+    - agency: elementar    
+    - period: 2005-04 – 2005-06
+- Cazal Eyewear
+    - client: cazal
+    - period: 2007-01, 2007-06, 2007-12, 2008-02
+- CSN Metals Website
+    - client: csnmetals
+    - period: 2006-07 – 2007-03
+- DITT Technologieatlas
+    - client: ditt
+    - agency: elementar
+    - period: 2004-12
+- DITT Technologieatlas Update (2010)
+    - client: ditt
+    - agency: elementar
+    - period: 2010-01 – 2010-02
+- DITT Newsletter
+    - client: ditt
+    - agency: elementar
+    - period: 2003-05 – 2003-08
+- First Finance Intranet & Website
+    - agency: jwd
+    - client: firstfinance
+    - period: 2004-09 – 2007-03
+    - Website Templates
+    - Intranet online shop für Sales-Agents
+    - Einpflegen von neuen Produkten
+- Ingo Robin Website
+    - agency: nomoresleep
+    - client: ingorobin
+    - period: 2007-06 – 2007-07, 2008-06
+    - CMS/Administrationsbereich für Text und Bild-Inhalte, API für flash
+- Jaja Mobile Illustrations
+    - client: jajah
+    - period: 2005-09
+- Sony Ericsson Gatekeeper Storyboard
+    - client: sonyericsson
+    - period: 2006-11
+- Styleheads Website
+    - client: styleheads
+    - agency: nomoresleep
+    - period: 2009-01
+- Vaporisateur Website
+    - client: styleheads
+    - agency: nomoresleep
+    - period: 2009-01
+- Studio AM Website
+    - client: studioam
+    - agency: 908video
+    - period: 2009-04 – 2009-05
+- Alpengluehn Website
+    - client: alpengluehn
+    - period: 2007-02
+- Telekom DVD
+    - client: elementar
+    - client: dtagservices
+    - period: 2003-05 – 2003-08
+- Telekom Cebit Animation
+    - client: dtagservices
+    - period: 2004-03 – 2004-04, 2004-08
+    - client: dtagservices
+    - agency: elementar
+- B.Z. Kulturpreis 2006
+    - client: bz
+    - agency: elementar
+    - period: 2006-01 – 2006-02
+    - Eröffnungsanimation Animation After Effects
+    - Illustration & Animationen Alexandra Neldel in After Effects
+- B.Z. Kulturpreis 2005
+    - client: bz
+    - agency: elementar
+    - period: 2005-01 – 2005-02
+    - 3DsMax Animation für den Hintergrund am Roten Teppich
+    - Illustration und Gestaltung von Dia-Projektionen in Axel Springer Passage
+- Scheibenwischer Spiel
+    - agency: gimmixx
+    - client: gebauedereinigerinnungbayern
+    - period: 2004-05
+- 1&1 Templates
+    - agency: elementar
+    - client: 1und1
+    - period: 2004-05 – 2004-06
+- Designklicks
+    - agency: deutschlandrock
+    - period: 2006-05 – 2006-08
+    - PHP/HTML Programmierung, Deep-Linking
+- Native Instruments Battery 3 Player
+    - client: native Instruments
+    - agency: ephigenia
+    - period: 2008-09
+- Kühlschrank Spiel
+    - agency: gimmixx
+    - client: rwe
+    - period: 2009-11 – 2009-12
+    - Flash Spiel bei dem man verschiedene Arten von Lebensmitteln in das richtige Fach des Kühlschranks ziehen muss, Illustration, Umsetung in Flash
+- Buzzup
+    - agency: extrajetzt
+    - period: 2010-07 – 2010-09

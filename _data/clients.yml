@@ -1,8 +1,6 @@
 1und1:
   name: 1&1
   url: https://www.1und1.de/
-908video:
-  name: 908 Video
 abebooks:
   name: AbeBooks
   url: https://www.abebooks.de
@@ -42,18 +40,20 @@ csnmetals:
 damianfranzen:
   name: Damian Franzen
   url: http://www.damianfranzen.de
-dmig:
-  name: Design Made in Germany
-  url: https://www.designmadeingermany.de/
 db:
   name: Deutsche Bahn
   url: https://www.bahn.de/
-ditt:
-  name: Deutsch Italiensiches Institut für Technologietransfer (DITT)
-  url: http://www.ditt.de/
 dbbahnpark:
   name: DB BahnPark
   url: http://www.dbbahnpark.de/
+ditt:
+  name: Deutsch Italiensiches Institut für Technologietransfer (DITT)
+  url: http://www.ditt.de/
+dmig:
+  name: Design Made in Germany
+  url: https://www.designmadeingermany.de/
+dtagservices:
+  name: Deutsche Telekom Network and Services GmbH
 erstererster:
   name: ErsterErster
 escapio:
@@ -78,6 +78,8 @@ ingorobin:
   name: Ingor Robin
 jajaah:
   name: Jajaah Mobile
+jwd:
+  name: Junge Wilde Digitale
 kunstmeile-hamburg:
   name: Kunstmeile Hamburg
   url: http://www.kunstmeile-hamburg.de
@@ -112,6 +114,8 @@ pps:
 rbb:
   name: RBB
   url: http://www.rbb-online.de/
+rwe:
+  name: RWE
 satoshipay:
   name: Satoshipay
   url: https://satoshipay.io/
@@ -132,6 +136,9 @@ supermarktcheck:
   url: http://www.supermarktcheck.de/
 susannepaschke:
   name: Susanne Paschke
+scco:
+  name: Richard Schumann
+  url: http://www.schumanncombo.com/
 tab:
   name: TAB-Ticketbroker
   url: https://tab-ticketbroker.de/
