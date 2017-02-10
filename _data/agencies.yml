@@ -13,3 +13,9 @@ workonweb:
 foobugs:
   name: foobugs
   url: http://www.foobugs.com/
+thegreeneyl:
+  name: Studio TheGreenEyl
+  url: http://www.thegreeneyl.com/
+elementar:
+  name: elementar mediadesign GmbH
+  url: http://www.elementar.net
