@@ -58,7 +58,7 @@ erstererster:
   name: ErsterErster
 escapio:
   name: Escapio
-elelphant-hotel:
+elephant-hotel:
   name: Designhotel Elephant Prag
 familieredlich:
   name: Familie Redlich
@@ -76,10 +76,12 @@ hlx:
   name: HLX
 ingorobin:
   name: Ingor Robin
-jajaah:
-  name: Jajaah Mobile
+jajah:
+  name: jajah Mobile
 jwd:
   name: Junge Wilde Digitale
+khm:
+  name: Kunsthochschule Köln
 kunstmeile-hamburg:
   name: Kunstmeile Hamburg
   url: http://www.kunstmeile-hamburg.de

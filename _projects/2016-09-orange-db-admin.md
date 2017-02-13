@@ -1,8 +1,7 @@
 ---
 layout: project
 title: Orange DB Admin
-date: 2016-12-31 12:14
-period: 2016-09 – 2017-01
+period: 2016-09 – 2017-02
 published: false
 clients:
     - dbbahnpark
@@ -10,19 +9,20 @@ agencies:
     - workonweb
     - utecht
 tags:
-    - angular
-    - bootstrap
-    - continuous deployment
-    - continuous integration
+    - Angular
+    - Bootstrap
+    - Continuous Deployment
+    - Continuous Integration
     - ESLint
     - HTML
-    - javascript
-    - karma
-    - mocha
+    - JavaScript
+    - Karma
+    - Mocha
     - OAuth
     - REST
-    - test driven development (TDD)
-    - web-application
+    - Test Driven Development
+    - TDD
+    - Web-Application
 ---
 In dieser im Auftrag von  [{{site.data.agencies.utecht.name}}]({{site.data.agencies.utecht.url}}) und [{{site.data.agencies.workonweb.name}}]({{site.data.agencies.workonweb.url}}) entwickelten [Angular](https://angularjs.org/)-Anwendung können die Mitarbeiter der DB Bahnpark GmbH komplexe Daten der zahlreichen von ihnen verwalteten Parkräume in über 145 Städten verändern.
 

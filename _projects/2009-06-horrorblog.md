@@ -1,7 +1,6 @@
 ---
-layout: "project"
-title: "Horrorblog"
-date: "2009-06-01 12:14"
+layout: project
+title: Horrorblog
 period: 2009-06 – 2011-11
 published: false
 tags:
@@ -10,6 +9,9 @@ tags:
     - Public Relations
     - Marketing
     - Publishing
+    - App
+    - Publishing
+    - Editorial
 ---
 
 ![Horrorblog.org]({{ site.baseurl }}/assets/horrorblog/20090723_horrorblog_1.jpg)
