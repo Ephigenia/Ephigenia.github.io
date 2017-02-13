@@ -2,7 +2,7 @@
 layout: project
 title: Studio AM Website
 published: false
-period: 2009-04 – 2009-05
+period: 2009-02 – 2009-03
 clients:
     - studioam
 agencies:
