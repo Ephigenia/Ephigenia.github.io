@@ -7,6 +7,7 @@ clients:
     - bz
 agencies:
     - elementar
+    - superpositioners
 tags:
     - Illustration
     - Animation

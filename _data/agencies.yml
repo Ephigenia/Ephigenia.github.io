@@ -20,6 +20,9 @@ nomoresleep:
 moresleep:
   name: MoreSleep
   url: http://www.moresleep.net/
+superpositioners:
+  name: Superpositioners
+  url: http://www.superpositioners.de/
 thegreeneyl:
   name: Studio TheGreenEyl
   url: http://www.thegreeneyl.com/

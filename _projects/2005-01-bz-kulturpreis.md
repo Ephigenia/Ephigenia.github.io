@@ -2,11 +2,12 @@
 layout: project
 title: B.Z. Kulturpreis 2005
 published: false
-period: 2005-01 – 2005-02
+period: 2004-12 – 2005-02
 clients:
     - bz
 agencies:
     - elementar
+    - superpositioners
 tags:
     - Animation
     - Illustration
