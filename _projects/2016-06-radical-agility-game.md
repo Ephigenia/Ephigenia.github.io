@@ -2,7 +2,7 @@
 layout: project
 title: Radical Agility Superheroes
 period: 2016-06 – 2016-08
-published: true
+published: false
 clients:
     - zalando
 agencies:
