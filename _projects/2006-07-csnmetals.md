@@ -11,4 +11,6 @@ tags:
     - HTML
     - CSS
     - PHP
+excerpt:
+    Flat file content-management system as well as a price table system and templates for the company.
 ---

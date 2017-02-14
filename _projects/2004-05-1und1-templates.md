@@ -11,4 +11,6 @@ tags:
     - CSS
     - HTML
     - Templates
+excerpt: |
+    Template programming of buttons, teasers, content-boxes based on designs.
 ---

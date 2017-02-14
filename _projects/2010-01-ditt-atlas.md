@@ -14,4 +14,6 @@ tags:
     - Templates
     - Java-Script
     - CMS
+excerpt:
+    Update of the atlas created some years ago. Design & template updates as well as some new features.
 ---

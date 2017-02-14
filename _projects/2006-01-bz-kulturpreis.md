@@ -12,6 +12,6 @@ tags:
     - Illustration
     - Animation
     - After Effects
+excerpt: |
+    Opening animation which was shown at the award show and a single ~30second clip showcasing the role of Alexandra Nedel in their famous role in „Verliebt in Berlin“ animated in After Effects.
 ---
-- Eröffnungsanimation Animation After Effects
-- Illustration & Animationen Alexandra Neldel in After Effects

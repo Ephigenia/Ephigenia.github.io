@@ -7,4 +7,6 @@ clients:
     - sonyericsson
 tags:
     - Illustration
+excerpt:
+    Development and illustration of a storyboard explaining the gatekeeper technology from sony ericsson.
 ---

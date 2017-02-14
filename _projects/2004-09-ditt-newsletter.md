@@ -13,4 +13,6 @@ tags:
     - CSS
     - E-Mail
     - Templates
+excerpt: |
+    Creation of multiple templates used as newsletter emails and testing on multiple clients too.
 ---

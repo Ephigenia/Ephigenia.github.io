@@ -8,4 +8,6 @@ clients:
 tags:
     - Flash
     - HTML
+excerpt:
+    Flat file content-management system which gets consumed by a flash website for the glasses company.
 ---

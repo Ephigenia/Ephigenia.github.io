@@ -10,4 +10,6 @@ agencies:
 tags:
     - DVD
     - Animation
+excerpt: |
+    Design & authoring of a DVD showcasing some projects of the client.
 ---

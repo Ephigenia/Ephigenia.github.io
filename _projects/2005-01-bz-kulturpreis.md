@@ -12,7 +12,7 @@ tags:
     - Animation
     - Illustration
     - 3D Studio Max
-    - 3D Modelling
+    - 3D Modeling
+excerpt: |
+    Concept, illustration, 3d-modeling and animation of a background movie that was shown behind the red carpet/photo wall as well as some illustrations shown with slide projectors during the after-show party.
 ---
-- 3DsMax Animation für den Hintergrund am Roten Teppich
-- Illustration und Gestaltung von Dia-Projektionen in Axel Springer Passage

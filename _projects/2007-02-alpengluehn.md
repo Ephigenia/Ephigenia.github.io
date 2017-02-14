@@ -9,4 +9,6 @@ tags:
     - HTML
     - Templates
     - CSS
+excerpt:
+    Static HTML/CSS templates for optician from swiss.
 ---

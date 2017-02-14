@@ -7,4 +7,6 @@ clients:
     - jajah
 tags:
     - Illustration
+excerpt:
+    Illustration of different audio communication devices.
 ---

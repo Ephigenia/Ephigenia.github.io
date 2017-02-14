@@ -12,4 +12,6 @@ tags:
     - Illustration
     - Animation
     - PHP
+excerpt: |
+    Design & Illustrations as well as development of the flatfile driven flash website for germany famous dance instructor Detlef D! Soost.
 ---

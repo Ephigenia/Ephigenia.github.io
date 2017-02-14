@@ -11,4 +11,10 @@ tags:
     - Cordova
     - App
     - iOS
+    - CSS
+    - HTML
+    - TypeScript
+    - JavaScript
+excerpt: |
+    Implement additional features as well as improving/refactoring existing code of an ionic/angular application targeting iOS mobile devices using TypeScript and JavaScript.
 ---
