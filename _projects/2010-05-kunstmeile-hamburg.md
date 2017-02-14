@@ -4,7 +4,7 @@ title: Kunstmeile Hamburg
 published: false
 period: 2010-05 – 2014-01
 clients:
-    - kunstmeilehamburg
+    - kunstmeile-hamburg
 agencies:
     - thegreeneyl
 tags:

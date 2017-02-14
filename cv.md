@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+nav: false
 published: false
 ---
 <img class="post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/fisheye_512x512.jpg" title="Marcel Eichner Portrait" />
@@ -15,6 +16,8 @@ Following this, I co-founded [foobugs](http://www.foobugs.com). From 2011 to 201
 Recently, I’ve focused on supporting project teams, based on the experience gleaned from 15 year’s of successful – and failed – web projects. I understand the importance of creating clean, fast performing code, as well as defining a clearly structured product. I also acknowledge maintaining a certain quality and well mapped-out processes.
 
 ## Skills
+
+*LIST IS UNDER CONSTRUCTION*
 
 - word
     - Test-Driven Development & Unit-Testing
@@ -60,11 +63,54 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 * Lily-Braun-Oberschule Berlin  
   2002 Abitur
   
-## Work History NEW
+## Work History
 
-*A almost complete listing of all projects started since 2011.*
+*LIST IS UNDER CONSTRUCTION*
 
+<ul>
 {% for project in site.projects reversed %}
-* {{ project.title }}  
-  {{ project.period }}    
+<li>
+    <strong>
+        {% if project.published %}
+            <a href="{{site.baseurl}}{{project.url}}">{{ project.title }}</a>
+        {% else %}
+            {{ project.title }}
+        {% endif %}
+    </strong><br>
+    <small>
+        <dl class="list-inline">
+            <dt>
+                period
+            </dt>
+            <dd>
+                {{ project.period }}
+            </dd>
+            {% if project.clients and project.clients.size > 0 %}
+            <dt>client</dt>
+            <dd>
+                <ul class="list-inline">
+                {% for alias in project.clients %}
+                    <li>{{ site.data.clients[alias].name }}</li>
+                {% endfor %}
+                </ul>
+            </dd>
+            {% endif %}
+            {% if project.agencies and project.agencies.size > 0 %}
+            <dt>agency</dt>
+            <dd>
+                <ul class="list-inline">
+                {% for alias in project.agencies %}
+                    <li>{{ site.data.agencies[alias].name }}</li>
+                {% endfor %}
+                </ul>
+            </dd>
+            {% endif %}
+        </dl>
+    </small>
+    <br>
+    {% if project.excerpt %}
+        {{ project.excerpt }}
+    {% endif %}
+</li>
 {% endfor %}
+</ul>

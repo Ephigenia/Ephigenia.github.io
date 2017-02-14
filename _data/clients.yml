@@ -28,6 +28,8 @@ berlinergazette:
   url: http://www.berlinergazette.de
 bevation:
   name: BeVation
+buzzup:
+  name: BuzzUp!
 cazal:
   name: Cazal Eyewear
 cgoal:
@@ -78,17 +80,15 @@ ingorobin:
   name: Ingor Robin
 jajah:
   name: jajah Mobile
-jwd:
-  name: Junge Wilde Digitale
 khm:
   name: Kunsthochschule Köln
 kunstmeile-hamburg:
   name: Kunstmeile Hamburg
   url: http://www.kunstmeile-hamburg.de
-kuelmann:
+kuehlmann:
   name: Heinrich Kühlmann GmbH & Co. KG
   url: http://www.kuehlmann.de/
-leading:
+lead1ng:
   name: Lead1ng AG
 leica:
   name: Leica
@@ -98,6 +98,9 @@ lumisol:
   name: Lumisol
 magari:
   name: Magari Internet GmbH
+maikogubler:
+  name: Maiko Gubler
+  url: http://maikogubler.com/
 mediacall:
   name: Media Call AG
 meiremeire:
@@ -138,10 +141,7 @@ supermarktcheck:
   url: http://www.supermarktcheck.de/
 susannepaschke:
   name: Susanne Paschke
-scco:
-  name: Richard Schumann
-  url: http://www.schumanncombo.com/
-tab:
+tabticketbroker:
   name: TAB-Ticketbroker
   url: https://tab-ticketbroker.de/
 toocan:
@@ -158,6 +158,8 @@ toocan:
   url: http://www.toocan.biz/
 universal:
   name: Universal Music
+vaporisateur:
+  name: Vaporisateur
 visono:
   name: Visono
   url: https://visono.biz/

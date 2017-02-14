@@ -4,7 +4,7 @@ title: Mongrelnation Maigo Gubler
 published: false
 period: 2008-11 – 2008-12
 clients:
-    - mongrelnation
+    - maikogubler
 agencies:
     - nomoresleep
 tags:

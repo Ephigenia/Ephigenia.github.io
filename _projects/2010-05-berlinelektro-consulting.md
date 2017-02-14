@@ -4,7 +4,7 @@ title: Berlin Elektro Consulting
 published: false
 period: 2010-05, 2010-10
 clients:
-    - Berlinelektro
+    - berlinelektro
 agencies:
     - elementar
 tags:

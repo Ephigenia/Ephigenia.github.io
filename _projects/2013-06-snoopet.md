@@ -27,6 +27,7 @@ tags:
     - Android
     - PHPUnit
     - Coffe-Script
+    - OAuth
 ---
 PHP, Java-Script Entwicklung, Projektmanagement
 - Qualitäts- und Sicherheitsanalyse der bestehenden Anwendungen

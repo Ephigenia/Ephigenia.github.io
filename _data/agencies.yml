@@ -7,25 +7,41 @@ ephigenia:
 elementar:
   name: elementar mediadesign GmbH
   url: http://www.elementar.net
+extrajetzt:
+  name: extrajetzt
 foersterei:
   name: Försterei
 foobugs:
   name: foobugs
   url: http://www.foobugs.com/
+gimmixx:
+  name: Gimmixx New Media
+  url: http://www.gimmixx.com/
 hybridheroes:
   name: Hybrid Heroes
   url: http://hybridheroes.de/
+jwd:
+  name: Junge Wilde Digitale
 nomoresleep:
   name: nomoresleep
+meiremeire:
+  name: Meiré Meiré
+  url: http://meireundmeire.com/
 moresleep:
   name: MoreSleep GmbH & Co KG
   url: http://www.moresleep.net/
+scco:
+  name: Richard Schumann
+  url: http://www.schumanncombo.com/
 superpositioners:
   name: Superpositioners
   url: http://www.superpositioners.de/
 thegreeneyl:
   name: Studio TheGreenEyl
   url: http://www.thegreeneyl.com/
+ulischoeberl:
+  name: Uli Schöberl
+  url: http://aplusplus.org/
 utecht:
   name: Dr. Uwe Utecht
   url: http://www.utecht.net/

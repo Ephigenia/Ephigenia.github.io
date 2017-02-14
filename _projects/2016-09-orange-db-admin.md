@@ -23,6 +23,12 @@ tags:
     - Test Driven Development
     - TDD
     - Web-Application
+    - OAuth
+    - Grunt
+    - Conventional-Changelog
+    - Semver
+excerpt:
+    AngularJS Web-Application development with typical CRUD actions which consumes a REST-Service and authenticates with OAuth2. Continuous Deployment, Test Driven Development
 ---
 In dieser im Auftrag von  [{{site.data.agencies.utecht.name}}]({{site.data.agencies.utecht.url}}) und [{{site.data.agencies.workonweb.name}}]({{site.data.agencies.workonweb.url}}) entwickelten [Angular](https://angularjs.org/)-Anwendung können die Mitarbeiter der DB Bahnpark GmbH komplexe Daten der zahlreichen von ihnen verwalteten Parkräume in über 145 Städten verändern.
 

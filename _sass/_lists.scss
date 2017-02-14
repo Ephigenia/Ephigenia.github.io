@@ -18,6 +18,9 @@ ul {
     ul {
       margin-bottom: 0;
     }
+    p:last-child {
+      margin-bottom: 0;
+    }
   }
 }
 
@@ -50,5 +53,15 @@ dl {
   margin-bottom: 1rem;
   > dt {
     @extend strong;
+  }
+
+  &.list-inline {
+    display: inline;
+    > dt {
+      display: inline;
+    }
+    > dd {
+      display: inline;
+    }
   }
 }

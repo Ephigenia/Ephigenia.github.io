@@ -12,6 +12,8 @@ tags:
     - App
     - Publishing
     - Editorial
+excerpt: |
+    
 ---
 
 ![Horrorblog.org]({{ site.baseurl }}/assets/horrorblog/20090723_horrorblog_1.jpg)
