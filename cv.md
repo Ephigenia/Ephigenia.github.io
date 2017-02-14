@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 published: false
 ---
-<img class="post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/fisheye_512x512.jpg" title="Marcel Eichner" />
+<img class="post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/fisheye_512x512.jpg" title="Marcel Eichner Portrait" />
 
 A born and bred Berliner, I started working as a freelance web developer at the age of 18, in 2001. After dabbling in media art and communication design, I discovered my real passion lay in the front- and back-end development of online travel communities, social networks and science projects.
 
@@ -62,22 +62,9 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
   
 ## Work History NEW
 
-<ul>
+*A almost complete listing of all projects started since 2011.*
+
 {% for project in site.projects reversed %}
-    <li>
-        {{ project.title }}
-        <ul>
-            <li>{{ project.period }}</li>
-            <li>agency / clients</li>
-        </ul>
-    </li>
+* {{ project.title }}  
+  {{ project.period }}    
 {% endfor %}
-</ul>
-
-## Work History
-
-- Kunsthochschule Köln
-    - client: Kunsthochschule Köln
-- PPS Website Templates
-    - client: pps
-    - agency: elementar

@@ -5,6 +5,10 @@ date: "2017-01-29 11:48"
 author: ephigenia
 published: true
 comments: true
+tags:
+    - Projects
+    - Angular
+    - node.js
 ---
 *Nachdem ich eine ganze Weile nichts mehr gebloggt habe, will ich in diesem kurz gefassten Beitrag einen kleinen Überblick geben, was seit Ende 2015 bis heute so bei mir passiert ist.*
 
