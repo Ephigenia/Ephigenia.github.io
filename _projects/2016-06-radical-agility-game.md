@@ -1,7 +1,6 @@
 ---
-layout: "project"
-title: "Radical Agility Superheroes"
-date: "2016-12-31 12:14"
+layout: project
+title: Radical Agility Superheroes
 period: 2016-06 – 2016-08
 published: true
 clients:
@@ -9,13 +8,16 @@ clients:
 agencies:
     - moresleep
 tags:
-    - angular
-    - javascript
-    - html
-    - mocha
-    - game
-    - heroku
-    - continuous deployment
+    - Angular
+    - JavaScript
+    - HTML
+    - Mocha
+    - Game
+    - Test Driven Development
+    - TDD
+    - Continuous Deployment
+    - Heroku
+    - Webpack
 ---
 Im Sommer 2016 wurde ich von [{{site.data.agencies.moresleep.name}}](site.data.agencies.moresleep.url) beauftragt, einen Persönlichkeits-Test namens [Radical Agility Superheroes](https://tech.zalando.com/radical-agility-superheroes/) für die Technik-Abteilung von [{{site.data.clients.zalando.name}}]({{site.data.clients.zalando.url}}) zu programmieren. Nach Beantwortung verschiedener Fragen, wird man in der Auswertung einem bestimmten Charakter zugeordnet, der zu einem der drei Säulen von [Radical Agility](https://blog.zalando.de/de/blog/ein-jahr-radical-agility-ein-resuemee) passt: Autonomy, Purpose oder Mastery:
 

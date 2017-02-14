@@ -7,9 +7,9 @@ layout: default
     <h1 itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta">
       {% if author %}
-      <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{author.name}}</span></span> at
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ author.name }}</span></span> at
       {% endif %}
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y %H:%m" }}</time>
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y %H:%m" }}</time>
       {% include taglist.html tags=page.tags %}
     </p>
   </header>

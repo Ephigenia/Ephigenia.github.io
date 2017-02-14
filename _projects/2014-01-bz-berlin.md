@@ -1,7 +1,6 @@
 ---
-layout: "project"
-title: "B.Z."
-date: "2014-01-17 12:14"
+layout: project
+title: B.Z. Relaunch
 period: 2014-01 – 2014-06
 published: false
 clients:
@@ -9,16 +8,21 @@ clients:
 agencies:
     - foobugs
 tags:
-    - backbone
-    - css
-    - html
-    - javascript
-    - mocha
+    - Backbone
+    - CSS
+    - HTML
+    - JavaScript
+    - Mocha
     - PHP
-    - test driven development (TDD)
-    - wordpress
+    - Test Driven Development (TDD)
+    - Wordpress
+    - PhantomJS
 ---
-
+- Javascript-, Frontend- und PHP-Entwicklung
+- Responsive Frontend Wordpress Theme mit Less & HTML5
+- Verschiedene Frontend-Module wie Live-Ticker, Artikel-
+- Karte & Slideshows in Bootstrap mit ~100% Testabdeckung mit Mocha & PhantomJS
+- API-Spezikation & Umsetzung für Artikel- und Taxonomy API
 <!--
 • Responsive Frontend Wordpress Theme mit Less & HTML5 • Verschiedene Frontend-Module wie Live-Ticker, Artikel-
 Karte & Slideshows in Bootstrap mit ~100% Testabde-

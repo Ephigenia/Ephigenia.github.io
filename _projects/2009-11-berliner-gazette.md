@@ -1,16 +1,19 @@
 ---
-layout: "project"
-title: "Berliner Gazette"
-date: "2016-12-31 12:14"
-period: 2014-10 – 2016-06
+layout: project
+title: Berliner Gazette
+period: 2014-10 – 2013-01
 published: false
 clients:
     - berlinergazette
 tags:
     - CSS
     - PHP
-    - wordpress
+    - Wordpress
+    - Compass
+    - SASS
+    - Wordpress-Plugin
+    - Responsive
 ---
-• Relaunch der gesamten Website auf Wordpress Basis • Programmierung und Integration von verschiedenen
-Plugins
-• Optimierung mit Media-Queries für mobile Endgeräte
+- Relaunch der gesamten Website auf Wordpress Basis
+- Programmierung und Integration von verschiedenen  Plugins
+- Optimierung mit Media-Queries für mobile Endgeräte

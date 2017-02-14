@@ -1,0 +1,23 @@
+---
+layout: page
+title: Clients
+permalink: /client/
+nav: false
+---
+<ul>
+  {% for client in site.data.clients %}
+  <!-- somehow the "client" doesn’t contain the sub keys, but client[1] does!? -->
+  {% assign details = client[1] %}
+  <li id="{{client[0]}}">
+    {% if details.url %}
+      <a href="{{ details.url }}" target="blank" rel="nofollow">{{ details.name }}</a>
+    {% else %}
+      {{ details.name }}
+    {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+<p class="muted text-centered">
+    List of clients ({{ site.data.clients.size }}) I have been working for directly or
+    indirectly in alphabetical order. Website may be offline.
+</p>

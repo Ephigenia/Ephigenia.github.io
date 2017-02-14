@@ -6,10 +6,11 @@ nav: false
 priority: 5
 ---
 <ul>
+  <!-- projects are ordered by filename -->
   {% for project in site.projects reversed %}
   <li>
-    <a href="{{site.baseurl}}{{project.url}}">{{project.title}}</a>
-    <time>{{project.period}}</time>
+    <a href="{{site.baseurl}}{{project.url}}">{{ project.title }}</a>
+    <time>{{ project.period }}</time>
   </li>
   {% endfor %}
 </ul>

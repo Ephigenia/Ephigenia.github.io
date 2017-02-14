@@ -1,0 +1,17 @@
+@media screen and (min-width: $on-palm) {
+  .post-image-pushed-left {
+    width: 50%;
+    float: left;
+    padding: 1rem;
+    margin-left: -5rem;
+  }
+  .post-image-pushed-right {
+    width: 50%;
+    float: right;
+    padding: 1rem;
+    margin-right: -7rem;
+  }
+  .post-image-25p {
+    width: 25%;
+  }
+}

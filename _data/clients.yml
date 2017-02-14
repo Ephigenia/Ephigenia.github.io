@@ -1,13 +1,14 @@
 1und1:
   name: 1&1
-908video:
-  name:
+  url: https://www.1und1.de/
 abebooks:
   name: AbeBooks
+  url: https://www.abebooks.de
 accor:
   name: Accor Hotels
 aida:
-  name: AIDA
+  name: AIDA Cruises
+  url: https://www.aida.de/
 alpengluehn:
   name: Alpengluehn.ch
 berlinelektro:
@@ -15,11 +16,12 @@ berlinelektro:
   url: http://www.berlinelektro.biz
 bund:
   name: BUND
+  url: https://www.bund.net/
 bz:
   name: B.Z. Ullstein GmbH
   url: http://www.bz-berlin.de
 bertelsmann:
-  name: bertelsmann
+  name: Bertelsmann SE & Co. KGaA
   url: https://www.bertelsmann.de/#st-1
 berlinergazette:
   name: Berliner Gazette e.V.
@@ -38,21 +40,29 @@ csnmetals:
 damianfranzen:
   name: Damian Franzen
   url: http://www.damianfranzen.de
-dmig:
-  name: Design Made in Germany
 db:
   name: Deutsche Bahn
-ditt:
-  name: Deutsch Italiensiches Institut für Technologietransfer (DITT)
+  url: https://www.bahn.de/
 dbbahnpark:
   name: DB BahnPark
   url: http://www.dbbahnpark.de/
+ditt:
+  name: Deutsch Italiensiches Institut für Technologietransfer (DITT)
+  url: http://www.ditt.de/
+dmig:
+  name: Design Made in Germany
+  url: https://www.designmadeingermany.de/
+dtagservices:
+  name: Deutsche Telekom Network and Services GmbH
 erstererster:
   name: ErsterErster
 escapio:
   name: Escapio
-elelphant-hotel:
+elephant-hotel:
   name: Designhotel Elephant Prag
+familieredlich:
+  name: Familie Redlich
+  url: http://www.familie-redlich.de/startseite/
 firstfinance:
   name: F1rst Finance
 gebauedereinigerinnungbayern:
@@ -66,8 +76,12 @@ hlx:
   name: HLX
 ingorobin:
   name: Ingor Robin
-jajaah:
-  name: Jajaah Mobile
+jajah:
+  name: jajah Mobile
+jwd:
+  name: Junge Wilde Digitale
+khm:
+  name: Kunsthochschule Köln
 kunstmeile-hamburg:
   name: Kunstmeile Hamburg
   url: http://www.kunstmeile-hamburg.de
@@ -88,19 +102,25 @@ mediacall:
   name: Media Call AG
 meiremeire:
   name: Meiré Meiré
+  url: http://meireundmeire.com/
 moviepilot:
   name: Moviepilot
 ni:
   name: Native Instruments
+  url: https://www.native-instruments.com
 photocase:
   name: Photocase
+  url: https://www.photocase.de/
 pps:
   name: Presse-Programm-Service (PPS)
 rbb:
   name: RBB
   url: http://www.rbb-online.de/
+rwe:
+  name: RWE
 satoshipay:
   name: Satoshipay
+  url: https://satoshipay.io/
 spar:
   name: SPAR
 styleheads:
@@ -115,17 +135,24 @@ sonyericsson:
   name: Sony Ericsson
 supermarktcheck:
   name: Supermarktcheck
+  url: http://www.supermarktcheck.de/
 susannepaschke:
   name: Susanne Paschke
+scco:
+  name: Richard Schumann
+  url: http://www.schumanncombo.com/
 tab:
   name: TAB-Ticketbroker
+  url: https://tab-ticketbroker.de/
 toocan:
   name: Toocan GmbH
   url: http://www.toocan.biz
 trademob:
   name: Trademob
+  url: http://www.trademob.com/
 tripsbytips:
   name: Tripsbytips
+  url: http://www.tripsbytips.de/
 toocan:
   name: Toocan
   url: http://www.toocan.biz/
@@ -138,6 +165,7 @@ weinmeister:
   name: Weinmeister Hotel
 wesc:
   name: WeSC
+  url: http://www.wesc.com/
 zalando:
   name: Zalando
   url: https://tech.zalando.com/
