@@ -6,12 +6,18 @@ published: false
 clients:
     - cgoal
 tags:
-    - JavaScript
-    - Electron
-    - node.js
-    - HTML
-    - CSS
     - CoffeeScript
+    - CSS
+    - Electron
+    - HTML
+    - JavaScript
+    - node.js
+    - Mocha
+    - Karma
+    - CircleCI
+    - Sentry.io
+    - Sinon
+    - Chai
 ---
 - Javascript/CoffeeScript development
 - Refactoring der bestehenden Legacy Web-Applikation nach modernen Standards, Einführung von Unit-Tests (mocha & phantomjs)

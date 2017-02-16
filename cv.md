@@ -26,8 +26,8 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 - git, svn, cvs
 - Javascript nodejs
     - backbone, angular, react, underscore, jquery, highcharts
-    - npm, express, cheerio, pm2, grunt, bower, webpack, winston, commander
-    - mocha, tape, chai, karma, sinon
+    - npm, express, cheerio, pm2, grunt, bower, webpack, winston, commander, mongoose, logly
+    - mocha, tape, chai, karma, sinon, istanbul, nock
     - electron
     - ionic, cordova
     - coffeescript
@@ -47,8 +47,27 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - Jekyll
 - Redis, RabbitMQ
 - Databases
-    - MySQL, SQLLite
-    - MongoDB, Firebase 
+    - MySQL
+    - SQLLite
+    - MongoDB
+    - Firebase
+- API  
+    Some of the APIs that I have used in a project during the years
+    - foursquare
+    - google plus
+    - github
+    - mite
+    - twitter
+    - yahoo stock
+    - circleci
+    - gitlab
+    - google vision
+    - google geocoding
+    - yelp
+    - facebook graph 
+    - instagram
+    - ituens
+    - spotify
 
 ## Honors
 

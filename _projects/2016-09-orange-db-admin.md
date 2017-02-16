@@ -13,6 +13,7 @@ tags:
     - Bootstrap
     - Continuous Deployment
     - Continuous Integration
+    - CircleCI
     - ESLint
     - HTML
     - JavaScript
@@ -27,6 +28,7 @@ tags:
     - Grunt
     - Conventional-Changelog
     - Semver
+    - Sentry.io
 excerpt:
     AngularJS Web-Application development with typical CRUD actions which consumes a REST-Service and authenticates with OAuth2. Continuous Deployment, Test Driven Development
 ---
