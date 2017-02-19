@@ -30,15 +30,8 @@ tags:
     - Semver
     - Sentry.io
 excerpt:
-    AngularJS Web-Application development with typical CRUD actions which consumes a REST-Service and authenticates with OAuth2. Continuous Deployment, Test Driven Development
+    AngularJS Web-Application development with typical CRUD actions which consumes a REST-Service and authenticates with OAuth2. Used by Continuous Deployment, Test Driven Development.
 ---
 In dieser im Auftrag von  [{{site.data.agencies.utecht.name}}]({{site.data.agencies.utecht.url}}) und [{{site.data.agencies.workonweb.name}}]({{site.data.agencies.workonweb.url}}) entwickelten [Angular](https://angularjs.org/)-Anwendung können die Mitarbeiter der DB Bahnpark GmbH komplexe Daten der zahlreichen von ihnen verwalteten Parkräume in über 145 Städten verändern.
 
 Dabei wurde viel Wert auf eine einfache Bedienung, hohe Performance und Softwarequalität gelegt. Neben der testgetriebenen Entwicklung werden verschiedene Metriken zur Softwarequalität (Testabdeckung, ESLint Meldungen) erfasst und überwacht.
-
-<!-- add more text which describes features like:
-    - tables
-    - hidable columns
-    - complex forms
-    - responsiveness
-    -->
