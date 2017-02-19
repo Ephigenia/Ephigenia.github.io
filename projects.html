@@ -7,7 +7,8 @@ priority: 5
 ---
 <ul>
   <!-- projects are ordered by filename -->
-  {% for project in site.projects reversed %}
+  {% assign p = site.projects | where:"approved",true %}
+  {% for project in p reversed %}
   <li>
     <a href="{{site.baseurl}}{{project.url}}">{{ project.title }}</a>
     <time>{{ project.period }}</time>
@@ -15,5 +16,5 @@ priority: 5
   {% endfor %}
 </ul>
 <p class="muted text-centered" style="margin-top: 3rem; margin-bottom: 2rem;">
-  <small>This is list is an excerpt, more projects &amp; details on request</small>
+  <small>This list should be much longer but most of the texts are work in progress and cannot be published right now.</small>
 </p>

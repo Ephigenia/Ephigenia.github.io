@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Designhotel Elephant Prag
-published: false
+published: true
 period: 2009-10, 2010-05
 clients:
     - elephant-hotel

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Tripsbytips
-published: false
+published: true
 period: 2007-03 – 2007-10
 clients:
     - tripsbytips

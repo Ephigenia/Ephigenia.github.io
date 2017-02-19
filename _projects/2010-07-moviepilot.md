@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Movipilot Techblog Theme
-published: false
+published: true
 period: 2010-07
 clients:
     - moviepilot

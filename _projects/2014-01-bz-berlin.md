@@ -2,7 +2,7 @@
 layout: project
 title: B.Z. Relaunch
 period: 2014-01 – 2014-06
-published: false
+published: true
 clients:
     - bz
 agencies:

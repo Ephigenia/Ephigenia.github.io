@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Lead1ng AG Intranet
-published: false
+published: true
 period: 2010-03 – 2013-03
 clients:
     - lead1ng

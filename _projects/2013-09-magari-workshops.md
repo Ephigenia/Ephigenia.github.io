@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Workshop: Git & Migrationsstrategien"
-published: false
+published: true
 period: 2013-09, 2013-12
 clients:
   - magari

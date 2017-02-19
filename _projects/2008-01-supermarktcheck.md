@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Supermarktcheck.de
-published: false
+published: true
 period: 2008-01
 clients:
     - supermarktcheck

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Designklicks
-published: false
+published: true
 period: 2006-05 – 2006-08
 agencies:
     - deutschlandrock

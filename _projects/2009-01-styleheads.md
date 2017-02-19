@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Styleheads Website
-published: false
+published: true
 period: 2009-01
 clients:
     - styleheads

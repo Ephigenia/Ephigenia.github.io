@@ -1,7 +1,7 @@
 ---
 layout: project
 title: CSN Metals Website
-published: false
+published: true
 period: 2006-07 – 2007-03
 clients:
     - csnmetals

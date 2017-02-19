@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Superpositioners Website
-published: false
+published: true
 period: 2007-02
 agencies:
     - superpositioners

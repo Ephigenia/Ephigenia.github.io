@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Ingo Robin Website
-published: false
+published: true
 period: 2007-06 – 2007-07, 2008-06
 clients:
     - ingorobin

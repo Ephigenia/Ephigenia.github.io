@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Sootfreecities.eu Website
-published: false
+published: true
 period: 2011-08 – 2011-09
 clients:
     - bund

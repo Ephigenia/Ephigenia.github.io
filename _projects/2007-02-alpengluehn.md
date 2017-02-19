@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Alpengluehn Website
-published: false
+published: true
 period: 2007-02
 clients:
     - alpengluehn

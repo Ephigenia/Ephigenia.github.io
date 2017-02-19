@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 nav: false
-published: false
+published: true
 ---
 <img class="post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/fisheye_512x512.jpg" title="Marcel Eichner Portrait" />
 
@@ -14,73 +14,6 @@ Between 2009 and 2011, I ran Germany’s biggest horror movie blog – based on 
 Following this, I co-founded [foobugs](http://www.foobugs.com). From 2011 to 2015 we provided PHP, node.js and front-end support, in addition to IT consulting and quality assurance, for both start-ups and established companies. Between 2014–2016, I’ve been a partner of media monitoring company, [Toocan](http://www.toocan.biz).
 
 Recently, I’ve focused on supporting project teams, based on the experience gleaned from 15 year’s of successful – and failed – web projects. I understand the importance of creating clean, fast performing code, as well as defining a clearly structured product. I also acknowledge maintaining a certain quality and well mapped-out processes.
-
-## Skills
-
-*LIST IS UNDER CONSTRUCTION*
-
-- word
-    - Test-Driven Development & Unit-Testing
-    - Continuos Deployment
-    - API-Design (REST)
-- git, svn, cvs
-- Javascript nodejs
-    - backbone, angular, react, underscore, jquery, highcharts
-    - npm, express, cheerio, pm2, grunt, bower, webpack, winston, commander, mongoose, logly
-    - mocha, tape, chai, karma, sinon, istanbul, nock
-    - electron
-    - ionic, cordova
-    - coffeescript
-    - typescript
-- PHP
-    - Symfony, Cake
-    - monolog
-    - doctrine
-    - composer, PEAR, phing
-    - wordpress & wordpress plugin development
-- CSS
-    - less, SASS/SCSS, compass
-    - bootstrap
-- HTML/Templating
-    - TWIG, Smarty,
-    - Fluid, handlebars
-    - Jekyll
-- Redis, RabbitMQ
-- Databases
-    - MySQL
-    - SQLLite
-    - MongoDB
-    - Firebase
-- API  
-    Some of the APIs that I have used in a project during the years
-    - foursquare
-    - google plus
-    - github
-    - mite
-    - twitter
-    - yahoo stock
-    - circleci
-    - gitlab
-    - google vision
-    - google geocoding
-    - yelp
-    - facebook graph 
-    - instagram
-    - ituens
-    - spotify
-
-## Honors
-
-* 2012 Ort im Land der Ideen für Berliner Gazette ([source](https://www.land-der-ideen.de/365-orte/preistraeger/berliner-gazette))
-* 2010 Alternativer Medienpreis Kategorie Internet für Berliner Gazette ([source](berlinergazette.de/alternativer-medienpreis-fuer-berliner-gazette/#more-6952))
-* 2006 Red-Dot Award für Designklicks
-
-## Education
-
-* Fachhochschule für Technik und Wirtschaft (FHTW) Berlin  
-  2003 – 2005 Kommunikationsdesign
-* Lily-Braun-Oberschule Berlin  
-  2002 Abitur
   
 ## Work History
 
@@ -133,3 +66,57 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 </li>
 {% endfor %}
 </ul>
+
+## Expertise
+
+- Web-Application development JavaScript & PHP
+- Service-Oriented Architecture
+- Test-Driven Development & Unit-Testing
+- Continuos Deployment & Integration
+- API-Design (REST)
+- Team Building & Leadership
+- Project Management
+
+## Skills
+
+- Version Control Systems: git, svn, cvs
+- Javascript/Node.js
+    - Backbone.js, Angular, React, Underscore, jQuery, Highcharts, Highstock
+    - NPM, express, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Mongoose, Loggly
+    - Mocha, Tape, Chai, Karma, Sinon, Istanbul, Nock
+    - electron
+    - Ionic, Cordova
+    - CoffeeScript
+    - TypeScript
+- PHP
+    - Symfony, CakePHP
+    - monolog
+    - doctrine
+    - composer, PEAR, Phing
+    - Wordpress & Wordpress plugin development
+- CSS
+    - less, SASS/SCSS, compass
+    - bootstrap
+- HTML/Templating
+    - TWIG, Smarty, Fluid, handlebars
+- Technologies
+    - Redis, RabbitMQ
+    - MySQL, SQLLite, MongoDB, Firebase
+    - Jekyll
+
+Some of the APIs that I have consumed and worked with through the years:
+
+CircleCi, Facebook, Foursquare, Github, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Mite, Spotify, Twitter, Yahoo Stock & Weather, Yelp
+
+## Honors
+
+* 2012 Ort im Land der Ideen für Berliner Gazette ([source](https://www.land-der-ideen.de/365-orte/preistraeger/berliner-gazette))
+* 2010 Alternativer Medienpreis Kategorie Internet für Berliner Gazette ([source](berlinergazette.de/alternativer-medienpreis-fuer-berliner-gazette/#more-6952))
+* 2006 Red-Dot Award für Designklicks
+
+## Education
+
+* Fachhochschule für Technik und Wirtschaft (FHTW) Berlin  
+  2003 – 2005 Kommunikationsdesign
+* Lily-Braun-Oberschule Berlin  
+  2002 Abitur

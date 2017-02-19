@@ -2,7 +2,7 @@
 layout: page
 title: Footbonaut
 period: 2013 – today
-published: false
+published: true
 clients:
     - cgoal
 tags:

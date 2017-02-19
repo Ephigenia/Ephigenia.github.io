@@ -2,7 +2,7 @@
 layout: project
 title: Snoopet
 period: 2013-06 – 2014-02
-published: false
+published: true
 agencies:
     - foobugs
 clients:

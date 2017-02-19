@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Escapio
-published: false
+published: true
 period: 2008-02 – 2008-10
 clients:
     - escapio

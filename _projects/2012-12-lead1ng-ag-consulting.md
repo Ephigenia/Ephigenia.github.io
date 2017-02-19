@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Lead1ng AG Consulting
-published: false
+published: true
 period: 2012-12 – 2013-01
 clients:
     - lead1ng

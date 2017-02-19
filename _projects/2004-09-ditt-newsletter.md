@@ -1,7 +1,7 @@
 ---
 layout: project
 title: DITT Newsletter
-published: false
+published: true
 period: 2003-05 – 2003-08
 clients:
     - ditt

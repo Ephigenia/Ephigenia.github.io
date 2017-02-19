@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Weinmeister Hotel
-published: false
+published: true
 period: 2010-05
 clients:
     - weinmeister

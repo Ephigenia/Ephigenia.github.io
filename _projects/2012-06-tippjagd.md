@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Tippjagd.de
-published: false
+published: true
 period: 2012-06 – 2013-02
 agencies:
     - foobugs

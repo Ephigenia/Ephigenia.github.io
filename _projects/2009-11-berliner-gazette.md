@@ -2,17 +2,17 @@
 layout: project
 title: Berliner Gazette
 period: 2014-10 – 2013-01
-published: false
+published: true
 clients:
     - berlinergazette
 tags:
+    - Compass
     - CSS
     - PHP
-    - Wordpress
-    - Compass
-    - SASS
-    - Wordpress-Plugin
     - Responsive
+    - SASS
+    - Wordpress
+    - Wordpress-Plugin
 ---
 - Relaunch der gesamten Website auf Wordpress Basis
 - Programmierung und Integration von verschiedenen  Plugins

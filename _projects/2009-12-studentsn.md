@@ -1,7 +1,7 @@
 ---
 layout: project
 title: StudentSN
-published: false
+published: true
 period: 2009-12 – 2010-03
 clients:
     - studentsn

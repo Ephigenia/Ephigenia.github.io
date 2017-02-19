@@ -1,7 +1,7 @@
 ---
 layout: project
 title: DITT Technologieatlas 2010
-published: false
+published: true
 period: 2010-01 – 2010-03
 clients:
     - ditt

@@ -2,7 +2,8 @@
 layout: project
 title: Radical Agility Superheroes
 period: 2016-06 – 2016-08
-published: false
+published: true
+approved: true
 clients:
     - zalando
 agencies:
@@ -30,4 +31,4 @@ Die Fragen und Antwortmöglichkeiten habe ich dafür in einem Google Drive-Sprea
 
 Auf dieser Basis habe ich die Spielmechanik realisiert, die Zuverlässigkeit der Ergebnisse getestet und das Quiz in die [Technik-Website von Zalando](https://tech.zalando.com/)) integriert.
 
-Es hat Spaß gemacht, nach längerer Zeit mal wieder ein Projekt mit der Agentur MoreSleep umzusetzen und dabei mit so talentierten und engagierten Designern wie [Marc Storch](http://www.gopogo.de/) und @TODO-Designer? zusammenzuarbeiten!
+Es hat Spaß gemacht, nach längerer Zeit mal wieder ein Projekt mit der Agentur MoreSleep umzusetzen und dabei mal mit [Marc Storch](http://www.gopogo.de/)  zusammenzuarbeiten!

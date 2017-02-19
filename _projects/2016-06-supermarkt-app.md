@@ -2,7 +2,7 @@
 layout: project
 title: Supermarkt Review App
 period: 2016-06 – 2016-09
-published: false
+published: true
 agencies:
     - hybridheroes
 tags:

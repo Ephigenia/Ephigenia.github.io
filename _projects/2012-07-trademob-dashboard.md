@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Trademob Dashboard
-published: false
+published: true
 period: 2012-07 – 2012-11
 clients:
     - trademob

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Perl Script Migration
-published: false
+published: true
 period: 2011-12 – 2012-04
 clients:
     - visono

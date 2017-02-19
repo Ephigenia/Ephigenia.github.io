@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Mongrelnation Maigo Gubler
-published: false
+published: true
 period: 2008-11 – 2008-12
 clients:
     - maikogubler

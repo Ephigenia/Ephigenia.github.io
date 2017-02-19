@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Metallica Microsite
-published: false
+published: true
 period: 2008-07 – 2008-08
 clients:
     - universal

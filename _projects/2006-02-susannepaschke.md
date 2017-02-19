@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Susanne Paschke / Vishaka.de Website
-published: false
+published: true
 period: 2006-02 – 2006-05
 tags:
     - HTML

@@ -2,7 +2,7 @@
 layout: project
 title: Horrorblog
 period: 2009-06 – 2011-11
-published: false
+published: true
 tags:
     - PHP
     - CMS

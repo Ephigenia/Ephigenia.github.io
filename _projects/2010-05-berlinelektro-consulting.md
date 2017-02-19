@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Berlin Elektro Consulting
-published: false
+published: true
 period: 2010-05, 2010-10
 clients:
     - berlinelektro

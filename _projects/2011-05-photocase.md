@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Photocase Templates
-published: false
+published: true
 period: 2011-05 – 2011-10
 clients:
     - photocase

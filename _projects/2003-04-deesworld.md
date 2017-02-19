@@ -1,7 +1,7 @@
 ---
 layout: project
 title: D!’s World
-published: false
+published: true
 period: 2003-04 – 2004-06
 agencies:
     - elementar

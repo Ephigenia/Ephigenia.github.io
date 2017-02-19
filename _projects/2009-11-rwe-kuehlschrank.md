@@ -1,7 +1,7 @@
 ---
 layout: project
 title: RWE-Kühlschrank Spiel
-published: false
+published: true
 period: 2009-11 – 2009-12
 clients:
     - rwe

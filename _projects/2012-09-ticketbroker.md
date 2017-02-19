@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Ticketbroker-Tool
-published: false
+published: true
 period: 2012-09 – 2013-03
 clients:
     - tabticketbroker

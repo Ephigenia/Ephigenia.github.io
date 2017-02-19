@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Workshop Familie Redlich
-published: false
+published: true
 period: 2012-09
 clients:
     - familieredlich

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Scheibenwischer Spiel
-published: false
+published: true
 period: 2004-05
 clients:
     - gebauedereinigerinnungbayern

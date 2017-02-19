@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Gatekeeper Storyboard
-published: false
+published: true
 period: 2006-11
 clients:
     - sonyericsson

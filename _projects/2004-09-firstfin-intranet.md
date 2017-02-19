@@ -1,7 +1,7 @@
 ---
 layout: project
 title: First Finance Intranet & Website
-published: false
+published: true
 period: 2004-09 – 2007-03
 clients:
     - firstfinance

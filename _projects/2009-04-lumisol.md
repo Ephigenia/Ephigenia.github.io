@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Lumisol
-published: false
+published: true
 period: 2009-04
 clients:
     - lumisol

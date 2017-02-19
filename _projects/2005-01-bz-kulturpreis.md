@@ -1,7 +1,7 @@
 ---
 layout: project
 title: B.Z. Kulturpreis 2005
-published: false
+published: true
 period: 2004-12 – 2005-02
 clients:
     - bz

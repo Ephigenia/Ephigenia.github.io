@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Damian Franzen
-published: false
+published: true
 period: 2011-07
 clients:
     - damianfranzen
