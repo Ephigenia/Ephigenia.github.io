@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Mongrelnation Maigo Gubler
+title: Mongrelnation Maiko Gubler
 published: true
 period: 2008-11 – 2008-12
 clients:
