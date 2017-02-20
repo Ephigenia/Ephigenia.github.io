@@ -11,5 +11,6 @@ tags:
     - HTML
     - Javascript
     - Jabber
+excerpt: |
+    Integration of a jabber server & client to the allready existing social network solution by creating a whole new jabber api client written in JavaScript.
 ---
-- html client for multi-user jabber chat integration into social network

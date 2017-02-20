@@ -8,7 +8,10 @@ clients:
 agencies:
     - foobugs
 tags:
-    - 
+    - Consulting
+    - Workshop
+    - PHP
+    - git
+excerpt: |
+    Introduced git version control system in a one-day workshop and consulting for migrating legacy PHP code to PHP 5.4 using static code analysis frameworks like code sniffer.
 ---
-- GIT Einführung und Workshop
-  - Workshop & Beratung Migration zu PHP 5.4 

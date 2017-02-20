@@ -6,6 +6,7 @@ published: true
 clients:
     - cgoal
 tags:
+    - Backbone.js
     - CoffeeScript
     - CSS
     - Electron
@@ -19,10 +20,5 @@ tags:
     - Sinon
     - Chai
 ---
-- Javascript/CoffeeScript development
-- Refactoring der bestehenden Legacy Web-Applikation nach modernen Standards, Einführung von Unit-Tests (mocha & phantomjs)
-- Entwicklung neuer Features von Konzeption über Wireframes und der Umsetzung im Team
-- Integrierung verschiedenster Visualisierungsformen mit Highcharts und D3
-- backbonejs & bootstrap Entwicklung
-- Team und Projektmanagement nach Kanban sowie Konzeption und Wireframes
-- electron app Entwicklung
+Javascript/CoffeeScript development of a football training machine. Refactoring from lots of legacy code to Backbone.js and Bootstrap. Introduced unit- & integration-tests by adding more than 2000 tests through the years.
+Project Management of a medium sized, multi-disciplinary team using kanban-like principles as well as wireframes and concepts for new features.

@@ -8,5 +8,9 @@ clients:
 tags:
     - HTML
     - CSS
+    - Templates
+    - SASS
+    - Compass
+excerpt: |
+    Development of different responsive, full page templates from client provided designs in HTML and SASS/CSS.
 ---
-- Programmierung von diversen Templates in HTML5 mit SASS/SCSS und Compass

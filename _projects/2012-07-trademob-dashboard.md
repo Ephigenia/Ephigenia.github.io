@@ -16,7 +16,6 @@ tags:
     - Grunt
     - REST
     - API
+excerpt: |
+    Mainly JavaScript/CoffeeScript-development for the berlin based ad network & targeting technology provider. Initial concepts & click-dummy as well as  development to create a new version of the companies dashboard solution which consumed a REST API.
 ---
-- Javascript-Entwicklung
-- Konzeption und Clickdummy Dashboard-Anwendung für Kampagnen, Banner etc.
-- Programmierung der Rich-Client Frontendlösung mit Coffeescript (backbone, underscore, mocha, chai, grunt und anderen javascript-tools) welche an Trademob API REST angebunden wurde

@@ -28,26 +28,12 @@ tags:
     - PHPUnit
     - Coffe-Script
     - OAuth
+excerpt: |
+    Project-Lead. Project management, concept and development PHP & Javascript of a social network for dog owners targeting the german-speaking market. Besides the public REST-API there was a complete Website (Symfony2) and a iOS & Android Hybrid-Application (Backbone.js, Cordova) where the users where able to get to know each other and to record some dog routes and share those with other users. Later on there was an integration of a payment provider and a premium model to be integrated.
 ---
-PHP, Java-Script Entwicklung, Projektmanagement
-- Qualitäts- und Sicherheitsanalyse der bestehenden Anwendungen
-- Konzeption / Clickdummy Rich-Client Admin Anwendung sowie API-Spezi kation und Konzept
-- Programmierung einer Website und REST-API in Symfony2 für Social Network mit Location-Based Services
-- Projektkoordination in SCRUM Prozess
-- Programmierung Rich-Client Anwendung in Coffee-Script (backbone, chaplinjs, grunt, etc.) welche API konsumiert und auf iOS und Android mit Phonegap nativ läuft
-- 
 <!--
-
 https://www.deutsche-startups.de/2014/03/14/snoopet-schliesst-fuer-immer-seine-pforten/
 http://issnruede.de/relaunch-von-snoopet-hundebesitzer-liebet-und-mehret-euch/
 http://www.applenative.com/apps/detailseite/snoopet-hundefreunde-in-deiner-naehe
 http://www.kissnapping.de/snoopet/
-• Konzeption / Clickdummy Rich-Client Admin Anwendung
-sowie API-Spezi kation und Konzept
-• Programmierung einer Website und REST-API in Symfony2
-für Social Network mit Location-Based Services
-• Projektkoordination in SCRUM Prozess
-• Programmierung Rich-Client Anwendung in Coffescript
-(backbone, chaplinjs, grunt, etc.) welche API konsumiert und auf iOS und Android mit Phonegap nativ läuft
-
 -->

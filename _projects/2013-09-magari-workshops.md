@@ -7,6 +7,11 @@ clients:
   - magari
 agencies:
   - foobugs
+tags:
+  - Consulting
+  - Workshop
+  - git
+  - SVN
+excerpt: |
+  Consulting and workshop around git version control system with theory and practical examples as well as migration strategies and examples for migrating from classical SVN to git.
 ---
-- Tagesworkshop für die Einführung in git VCS
-- Consulting zur Migration von SVN zu git

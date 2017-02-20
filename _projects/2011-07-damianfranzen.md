@@ -14,4 +14,6 @@ tags:
     - HTML
     - Templates
     - CMS
+excerpt:
+    Complete CMS-driven website solution for the dentist from cologne. Templates and integration of the cms.
 ---
