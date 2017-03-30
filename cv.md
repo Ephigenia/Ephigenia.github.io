@@ -82,7 +82,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 - Version Control Systems: git, svn, cvs
 - Javascript/Node.js
     - Backbone.js, Angular, React, Underscore, jQuery, Highcharts, Highstock
-    - NPM, express, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Mongoose, Loggly
+    - NPM, express, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Mongoose, Sequelize, Loggly
     - Mocha, Tape, Chai, Karma, Sinon, Istanbul, Nock
     - electron
     - Ionic, Cordova
