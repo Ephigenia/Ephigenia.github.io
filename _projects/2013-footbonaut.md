@@ -10,6 +10,7 @@ tags:
     - CoffeeScript
     - CSS
     - Electron
+    - GitHub
     - HTML
     - JavaScript
     - node.js

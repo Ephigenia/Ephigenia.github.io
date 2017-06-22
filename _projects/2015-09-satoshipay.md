@@ -8,6 +8,7 @@ clients:
 tags:
     - PhantomJS
     - SauceLabs
+    - GitHub
     - Consulting
 excerpt: |
     Consulting and support for creating first integration test suites running with SauceLabs.

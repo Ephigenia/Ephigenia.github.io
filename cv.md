@@ -2,8 +2,9 @@
 layout: page
 title: CV
 permalink: /cv/
-nav: false
+nav: true
 published: true
+priority: 0
 ---
 <img class="post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/fisheye_512x512.jpg" title="Marcel Eichner Portrait" />
 
@@ -16,8 +17,6 @@ Following this, I co-founded [foobugs](http://www.foobugs.com). From 2011 to 201
 Recently, I’ve focused on supporting project teams, based on the experience gleaned from 15 year’s of successful – and failed – web projects. I understand the importance of creating clean, fast performing code, as well as defining a clearly structured product. I also acknowledge maintaining a certain quality and well mapped-out processes.
   
 ## Work History
-
-*LIST IS UNDER CONSTRUCTION*
 
 <ul>
 {% for project in site.projects reversed %}
@@ -67,11 +66,16 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 {% endfor %}
 </ul>
 
+<p class="muted text-centered">
+  List of projects ({{ site.projects.size }}) in chronological order. Websites may be offline. Project names or client names may be codenames.
+</p>
+
 ## Expertise
 
 - Web-Application development JavaScript & PHP
 - Service-Oriented Architecture
 - Test-Driven Development & Unit-Testing
+- Refactoring & Improving Project Quality
 - Continuos Deployment & Integration
 - API-Design (REST)
 - Team Building & Leadership
@@ -83,11 +87,12 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 - Javascript/Node.js
     - Backbone.js, Angular, React, Underscore, jQuery, Highcharts, Highstock
     - NPM, express, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Mongoose, Sequelize, Loggly
-    - Mocha, Tape, Chai, Karma, Sinon, Istanbul, Nock
+    - Mocha, Tape, Jasmine, Chai, Karma, Sinon, Istanbul, Nock
     - electron
     - Ionic, Cordova
     - CoffeeScript
-    - TypeScript
+- TypeScript
+    - Angular2
 - PHP
     - Symfony, CakePHP
     - monolog
@@ -103,6 +108,8 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - Redis, RabbitMQ
     - MySQL, SQLLite, MongoDB, Firebase
     - Jekyll
+
+## API
 
 Some of the APIs that I have consumed and worked with through the years:
 
