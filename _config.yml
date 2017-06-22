@@ -17,6 +17,8 @@ gitlab_username: ephigenia
 xing_username: Marcel_Eichner
 linkedin_username: ephigenia
 
+repository: Ephigenia/Ephigenia.github.io
+
 analytics:
   google:
     tracking_id: 'UA-80368234-1'
