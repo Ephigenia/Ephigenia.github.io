@@ -3,6 +3,7 @@ These are the sources of my website. Based on the automatic site generator [jeky
 ## Requirements
 
 * [ruby](https://www.ruby-lang.org)
+* [bundler](http://bundler.io/) install with `gem install bundler`
 
 ## Setup
 
