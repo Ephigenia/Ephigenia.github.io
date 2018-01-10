@@ -9,7 +9,6 @@ permalink: /imprint/
     <div class="org">Ephigenia M. Eichner</div>
     <div class="fn">Marcel Eichner</div>
     <div class="adr">
-        <div class="locality">
         <div class="street-address">Warschauer Str. 59a</div>
         <div>
             <span class="postcode">10243</span> <span class="locality">Berlin</span>
@@ -17,6 +16,7 @@ permalink: /imprint/
     </div>
     Kontakt: <a href="mailto:marcel.eichner@ephigenia.de" class="email">marcel.eichner@ephigenia.de</a>
 </div>
+
 
 ## Haftungsausschluss
 
