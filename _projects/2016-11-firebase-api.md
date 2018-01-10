@@ -16,7 +16,8 @@ tags:
     - Fixtures
     - Gitlab
     - Gitlab CI
-    - google cloud
+    - Google Cloud
+    - Google App Engine
     - node.js
     - Prototype
     - Realtime

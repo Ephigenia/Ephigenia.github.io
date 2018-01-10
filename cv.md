@@ -76,7 +76,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 - Service-Oriented Architecture
 - Test-Driven Development & Unit-Testing
 - Refactoring & Improving Project Quality
-- Continuos Deployment & Integration
+- Continuous Deployment & Integration
 - API-Design (REST)
 - Team Building & Leadership
 - Project Management
@@ -92,7 +92,6 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - Ionic, Cordova
     - CoffeeScript
 - TypeScript
-    - Angular2
 - PHP
     - Symfony, CakePHP
     - monolog

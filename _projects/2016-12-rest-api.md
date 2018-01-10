@@ -11,6 +11,7 @@ tags:
     - App Engine
     - Cloud Storage
     - Continuous Deployment
+    - Continuous Integration
     - Conventional Changelog
     - Database
     - Docker
@@ -18,15 +19,20 @@ tags:
     - Firebase
     - Gitlab
     - Gitlab CI
-    - google cloud
+    - Google App Engine
+    - Google Cloud
+    - Google Cloud SQL
     - Mocha
     - MySQL
+    - Jira
     - node.js
     - Pub/Sub
     - Push-Notifications
     - REST
     - Sequelize
     - SQL
+    - Stackdriver
+    - Swagger
     - TDD
     - Test Driven Development
     - Tests
