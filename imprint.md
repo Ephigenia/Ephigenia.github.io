@@ -5,11 +5,18 @@ permalink: /imprint/
 ---
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-[Ephigenia M. Eichner](https://de.foursquare.com/v/ephigenia-m-eichner/4c15f7a7b7b9c92853abad37)  
-Marcel Eichner  
-[Warschauer Str. 59a  
-10243 Berlin](http://maps.google.com/?q=Warschauer Str. 59A 10243 Berlin)  
-Kontakt: [marcel.eichner@ephigenia.de](mailto:marcel.eichner@ephigenia.de)
+<div class="vcard">
+    <div class="org">Ephigenia M. Eichner</div>
+    <div class="fn">Marcel Eichner</div>
+    <div class="adr">
+        <div class="locality">
+        <div class="street-address">Warschauer Str. 59a</div>
+        <div>
+            <span class="postcode">10243</span> <span class="locality">Berlin</span>
+        </div>
+    </div>
+    Kontakt: <a href="mailto:marcel.eichner@ephigenia.de" class="email">marcel.eichner@ephigenia.de</a>
+</div>
 
 ## Haftungsausschluss
 
