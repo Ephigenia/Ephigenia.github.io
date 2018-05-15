@@ -7,7 +7,7 @@
 
 # Site settings
 title: Marcel Eichner
-email: love@ephigenia.de
+email: marcel.eichner@ephigenia.de
 description: Website of Marcel Eichner, full-stack Javascript & PHP web developer from Berlin.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://www.ephigenia.de # the base hostname & protocol for your site
@@ -21,7 +21,7 @@ repository: Ephigenia/Ephigenia.github.io
 
 analytics:
   google:
-    tracking_id: 'UA-80368234-1'
+    tracking_id: UA-80368234-1
 
 collections:
   projects:
