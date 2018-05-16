@@ -17,12 +17,8 @@ Run local jekyll server:
 
 Run in production mode:
 
-    JEKYLL_ENV=production jekyll serve
+    JEKYLL_ENV=production bundle exec serve
 
 Enable unpublishd, draft and future posts when generating:
 
     bundle exec jekyll server --unpublished --drafts --future
-
-## Content
-
-tbd

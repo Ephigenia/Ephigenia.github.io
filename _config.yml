@@ -5,30 +5,46 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+markdown: kramdown
+timezone: Europe/Berlin
+sass:
+  style: compressed
+
 # Site settings
-title: Marcel Eichner
-email: marcel.eichner@ephigenia.de
-description: Website of Marcel Eichner, full-stack Javascript & PHP web developer from Berlin.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://www.ephigenia.de # the base hostname & protocol for your site
-twitter_username: ephigenia
-github_username: Ephigenia
-gitlab_username: ephigenia
-xing_username: Marcel_Eichner
-linkedin_username: ephigenia
-
 repository: Ephigenia/Ephigenia.github.io
 
-analytics:
-  google:
-    tracking_id: UA-80368234-1
+# content settings
+title: Marcel Eichner
+email: marcel.eichner@ephigenia.de
+description: >
+  Website of Marcel Eichner, full-stack Javascript & PHP web developer from Berlin.
 
 collections:
   projects:
     output: true
     permalink: /project/:path/
 
-# Build settings
-markdown: kramdown
+# profiles
+twitter_username: ephigenia
+github_username: Ephigenia
+gitlab_username: ephigenia
+xing_username: Marcel_Eichner
+linkedin_username: ephigenia
 
-timezone: Europe/Berlin
+# tracking
+analytics:
+  google:
+    tracking_id: UA-80368234-1
+
+# List of files & directories jekyll should not put into the _site directory
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - MIT-LICENSE
+  - Procfile
+  - Rakefile
+  - README.md
