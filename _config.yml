@@ -12,7 +12,7 @@ sass:
 
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://www.ephigenia.de # the base hostname & protocol for your site
+url: https://www.ephigenia.de # the base hostname & protocol for your site
 repository: Ephigenia/Ephigenia.github.io
 
 # content settings
