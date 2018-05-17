@@ -38,6 +38,8 @@ analytics:
   google:
     tracking_id: UA-80368234-1
 
+include:
+  - googleed6769aecb756e59.html
 # List of files & directories jekyll should not put into the _site directory
 exclude:
   - CNAME
