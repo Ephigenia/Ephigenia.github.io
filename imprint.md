@@ -7,26 +7,13 @@ permalink: /imprint
 ---
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
-<div class="vcard">
-    <div class="adr">
-        <div class="org">Ephigenia M. Eichner</div>
-        <div class="fn">Marcel Eichner</div>
-        <div class="street-address">Warschauer Str. 59a</div>
-        <div>
-            <span class="postal-code">10243</span> <span class="locality">Berlin</span>
-            <span class="region">Berlin</span>
-            <span class="country-name">Germany</span>
-        </div>
-    </div>
-    <a class="email" href="mailto:{{ site.email }}" class="email">{{ site.email }}</a>
-    <div class="tel">
-        <a href="tel:+493029774666">
-            <span class="value">+49</span>&ensp;
-            <span class="value">30</span>&ensp;
-            <span class="value">29774666</span>
-        </a>
-    </div>
-</div>
+Ephigenia M. Eichner  
+Marcel Eichner    
+Warschauer Str. 59A  
+10243 Berlin
+Germany   
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>  
++49 30 29774666  
 
 ### Haftung für Inhalte
 

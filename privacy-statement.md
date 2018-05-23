@@ -8,7 +8,8 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 Ephigenia M. Eichner  
 Marcel Eichner    
 Warschauer Str. 59A  
-10243 Berlin  
+10243 Berlin
+Germany   
 Kontakt: {{ site.email }}  
 [Impressum](./imprint)
 
