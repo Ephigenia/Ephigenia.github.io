@@ -31,5 +31,8 @@
         "https://gitlab.com/{{ site.gitlab_username }}"
       ]
     }
-    </script>
+  </script>
+  {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
 </head>
