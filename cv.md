@@ -67,7 +67,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 </ul>
 
 <p class="muted text-centered">
-  List of projects ({{ site.projects.size }}) in chronological order. Websites may be offline. Project names or client names may be codenames.
+  List of {{ site.projects.size }} projects in chronological order. Websites may be offline. Project names or client names may be codenames.
 </p>
 
 ## Expertise
@@ -87,7 +87,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 - Javascript/Node.js
     - Backbone.js, Angular, React, Underscore, jQuery, Highcharts, Highstock
     - NPM, express, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Mongoose, Sequelize, Loggly
-    - Mocha, Tape, Jasmine, Chai, Karma, Sinon, Istanbul, Nock
+    - Mocha, Tape, Jasmine, Chai, Karma, Sinon, Istanbul, Nock, NYC
     - electron
     - Ionic, Cordova
     - CoffeeScript
@@ -107,6 +107,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - Redis, RabbitMQ
     - MySQL, SQLLite, MongoDB, Firebase
     - Jekyll
+    - Docker, Kubernetes
 
 ## API
 

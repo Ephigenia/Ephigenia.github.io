@@ -1,17 +1,27 @@
-@media screen and (min-width: $on-palm) {
-  .post-image-pushed-left {
-    width: 50%;
-    float: left;
-    padding: 1rem;
-    margin-left: -5rem;
+.post-image-pushed-right {
+  padding: 1rem;
+  margin-right: -5rem;
+  float: right;
+}
+.post-image-pushed-left {
+  float: left;
+  padding: 1rem;
+  margin-left: -4rem;
+}
+
+.post-image-pushed-left,
+.post-image-pushed-right {
+  @media screen and (max-width: $on-palm) {
+    width: 100%;
+    float: none;
+    padding: {
+      left: 0;
+      right: 0;
+    }
+    margin: 0;
   }
-  .post-image-pushed-right {
-    width: 50%;
-    float: right;
-    padding: 1rem;
-    margin-right: -4rem;
-  }
-  .post-image-25p {
-    width: 25%;
-  }
+}
+
+.post-image-25p {
+  width: 25%;
 }
