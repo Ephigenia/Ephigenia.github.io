@@ -51,11 +51,11 @@ Einwilligung ist jede von der betroffenen Person freiwillig für den bestimmten 
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:
 
 Ephigenia M. Eichner  
-Warschauer Str. 59a  
-10243 Berlin  
+Mozarstr. 9   
+15566 Schöneiche   
 Deutschland  
 
-Tel.: +49302977666  
+Tel.: +493029351780  
 E-Mail: marcel.eichner@ephigenia.de  
 Website: www.ephigenia.de  
 

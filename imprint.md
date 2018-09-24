@@ -9,11 +9,11 @@ permalink: /imprint
 
 Ephigenia M. Eichner  
 Marcel Eichner    
-Warschauer Str. 59A  
-10243 Berlin
+Mozartstr. 9  
+15566 Schöneiche  
 Germany   
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>  
-+49 30 29774666  
+‭+49 30 29351780‬  
 
 ### Haftung für Inhalte
 
