@@ -55,8 +55,8 @@ Mozarstr. 9
 15566 Schöneiche   
 Deutschland  
 
-Tel.: +493029351780  
-E-Mail: marcel.eichner@ephigenia.de  
+Tel.: {{ site.tel }}  
+E-Mail: [{{ site.email }}](mailto:{{site.email}})  
 Website: www.ephigenia.de  
 
 ### Cookies

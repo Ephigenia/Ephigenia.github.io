@@ -12,8 +12,8 @@ Marcel Eichner
 Mozartstr. 9  
 15566 Schöneiche  
 Germany   
-<a href="mailto:{{ site.email }}">{{ site.email }}</a>  
-‭+49 30 29351780‬  
+[{{ site.email }}](mailto:{{site.email}})  
+{{site.tel}}
 
 ### Haftung für Inhalte
 
