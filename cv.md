@@ -86,8 +86,10 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 - Version Control Systems: git, svn, cvs
 - Javascript/Node.js
     - Backbone.js, Angular, React, Underscore, jQuery, Highcharts, Highstock
-    - NPM, express, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Mongoose, Sequelize, Loggly
-    - Mocha, Tape, Jasmine, Chai, Karma, Sinon, Istanbul, Nock, NYC
+    - NPM, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Loggly, moment
+    - Mocha, Tape, Jasmine, Chai, Karma, Sinon, Istanbul, Nock, NYC, Supertest
+    - mongoose, sequelize
+    - express, loopback
     - electron
     - Ionic, Cordova
     - CoffeeScript
@@ -100,12 +102,12 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - Wordpress & Wordpress plugin development
 - CSS
     - less, SASS/SCSS, compass
-    - bootstrap
+    - bootstrap, material
 - HTML/Templating
     - TWIG, Smarty, Fluid, handlebars
 - Technologies
     - Redis, RabbitMQ
-    - MySQL, SQLLite, MongoDB, Firebase
+    - MySQL, PostgreSQL, SQLLite, MongoDB, Firebase
     - Jekyll
     - Docker, Kubernetes
 
@@ -113,7 +115,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 
 Some of the APIs that I have consumed and worked with through the years:
 
-CircleCi, Facebook, Foursquare, Github, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Mite, Spotify, Twitter, Yahoo Stock & Weather, Yelp
+CircleCi, Facebook, Foursquare, Github, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Mite, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, Yelp
 
 ## Honors
 
