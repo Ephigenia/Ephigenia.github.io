@@ -16,6 +16,7 @@ tags:
     - Continuous Integration
     - CircleCI
     - ESLint
+    - heroku
     - HTML
     - JavaScript
     - Karma
