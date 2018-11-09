@@ -2,11 +2,19 @@
   padding: 1rem;
   margin-right: -5rem;
   float: right;
+
+  border-right: 0.5rem solid transparent;
+  border-bottom: 0.5rem solid transparent;
+  box-shadow: 0.25rem 0.25rem 0 $brand-color;
 }
 .post-image-pushed-left {
   float: left;
   padding: 1rem;
   margin-left: -4rem;
+
+  border-left: 0.5em solid transparent;
+  border-bottom: 0.5em solid transparent;
+  box-shadow: -0.25em 0.25em 0 $brand-color;
 }
 
 .post-image-pushed-left,
