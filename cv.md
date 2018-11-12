@@ -100,6 +100,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - doctrine
     - composer, PEAR, Phing
     - Wordpress & Wordpress plugin development
+- Bash/Shell Script
 - CSS
     - less, SASS/SCSS, compass
     - bootstrap, material
@@ -110,6 +111,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - MySQL, PostgreSQL, SQLLite, MongoDB, Firebase
     - Jekyll
     - Docker, Kubernetes
+    - Swagger, OpenAPI
 
 ## API
 
