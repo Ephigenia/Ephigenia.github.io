@@ -32,3 +32,9 @@ Die Fragen und Antwortmöglichkeiten habe ich dafür in einem Google Drive-Sprea
 Auf dieser Basis habe ich die Spielmechanik realisiert, die Zuverlässigkeit der Ergebnisse getestet und das Quiz in die [Technik-Website von Zalando](https://tech.zalando.com/)) integriert.
 
 Es hat Spaß gemacht, nach längerer Zeit mal wieder ein Projekt mit der Agentur MoreSleep umzusetzen und dabei mal mit [Marc Storch](http://www.gopogo.de/)  zusammenzuarbeiten!
+
+## Referals
+
+> Ich durfte bereits mehrere Projekte mit Marcel umsetzten. Seine Expertise im Bereich der agilen Softwareentwicklung und Integration waren immer eine große Hilfe. Auch in brenzligen Situation bleibt er ruhig und hilft so dem Team das eigentliche Ziel im Auge zu behalten. Marcel ist mit seiner Ruhe und Professionalität der perfekte Partner in einem agilen Entwickler-Team.
+
+– [Marc Storch](https://www.linkedin.com/in/marc-storch-4509/) (Freelancer)
