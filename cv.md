@@ -108,7 +108,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     - TWIG, Smarty, Fluid, handlebars
 - Technologies
     - Redis, RabbitMQ
-    - MySQL, PostgreSQL, SQLLite, MongoDB, Firebase
+    - MySQL, PostgreSQL, SQLLite, MongoDB, Elasticsearch, Firebase
     - Jekyll
     - Docker, Kubernetes
     - Swagger, OpenAPI
