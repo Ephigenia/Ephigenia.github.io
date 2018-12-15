@@ -9,25 +9,26 @@ clients:
     - bevation
     - bertelsmann
 tags:
-    - PHP
-    - Symfony
+    - Android
+    - API
+    - backbone
+    - Bootstrap
+    - ChaplinJS
+    - Coffe-Script
     - concept
+    - Continuous Integration
+    - Cordova
+    - grunt
+    - i18n
+    - iOS
+    - OAuth
+    - PHP
+    - PHPUnit
     - project-management
     - REST
-    - API
-    - Social-Network
-    - Continuous Integration
-    - Bootstrap
     - SCRUM
-    - backbone
-    - ChaplinJS
-    - grunt
-    - Cordova
-    - iOS
-    - Android
-    - PHPUnit
-    - Coffe-Script
-    - OAuth
+    - Social-Network
+    - Symfony
 excerpt: |
     Project-Lead. Project management, concept and development PHP & Javascript of a social network for dog owners targeting the german-speaking market. Besides the public REST-API there was a complete Website (Symfony2) and a iOS & Android Hybrid-Application (Backbone.js, Cordova) where the users where able to get to know each other and to record some dog routes and share those with other users. Later on there was an integration of a payment provider and a premium model to be integrated.
 ---

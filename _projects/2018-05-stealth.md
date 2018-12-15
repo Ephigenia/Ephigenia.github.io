@@ -1,6 +1,6 @@
 ---
 layout: project
-title: stealth-1
+title: stealth
 period: 2018-04 – 2018-09
 published: true
 approved: false

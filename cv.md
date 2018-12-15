@@ -31,7 +31,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
     <small>
         <dl class="list-inline">
             <dt>
-                period
+                interval
             </dt>
             <dd>
                 {{ project.period }}
