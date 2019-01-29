@@ -15,10 +15,12 @@ tags:
     - Jest
     - OAuth
     - Prettier
+    - Redux  
     - refactoring
+    - REST
     - TypeScript
     - vue
     - Webpack
 excerpt: |
-    Supporting justwatch’s team in refactoring the legacy angular application to modern vue.
+    Supporting justwatch’s team in refactoring the legacy angular application to modern vue and ionic 4.
 ---
