@@ -1,7 +1,7 @@
 ---
 layout: project
 title: stealth
-period: 2018-04 – 2018-09
+period: 2018-04 – 2018-11
 published: true
 approved: false
 agencies:
