@@ -128,6 +128,6 @@ CircleCi, Facebook, Foursquare, Github, GitLab, Google Geocoding, Google Plus, G
 ## Education
 
 * Fachhochschule für Technik und Wirtschaft (FHTW) Berlin  
-  2003 – 2005 Kommunikationsdesign
+  2003 – 2005 Kommunikationsdesign, Ohne Abschluss
 * Lily-Braun-Oberschule Berlin  
   2002 Abitur
