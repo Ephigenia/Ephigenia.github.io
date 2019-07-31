@@ -1,6 +1,6 @@
 ---
 layout: project
-title: stealth
+title: stepbystep
 period: 2018-04 – 2018-11
 published: true
 approved: false
@@ -22,8 +22,9 @@ tags:
     - Mocha
     - MySQL
     - NGINX
-    - nodejs
+    - node.js
     - OpenAPI
+    - Semantic Release
     - Semver
     - sequelize
     - SQLite
@@ -32,5 +33,5 @@ tags:
     - Test Driven Development
     - umzug
 excerpt: |
-    Concept and development of a REST-API service written in nodejs with continuous integration, testing & deployment using docker and gitlab ci.
+    Concept and development of a REST-API service written in node.js with continuous integration, testing & deployment using docker and gitlab ci.
 ---
