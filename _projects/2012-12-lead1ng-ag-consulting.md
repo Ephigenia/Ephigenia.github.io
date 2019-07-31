@@ -8,7 +8,7 @@ clients:
 agencies:
     - foobugs
 tags:
-    - consulting
+    - Consulting
     - MySQL
 ---
 - Analyse, Dokumentation, Migrations-Szenario Analyse

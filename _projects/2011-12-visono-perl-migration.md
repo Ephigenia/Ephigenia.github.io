@@ -11,8 +11,9 @@ tags:
     - Migration
     - Perl
     - PHP
-    - Tests
     - PHPDoc
+    - Refactoring
+    - Unit-Tests
 excerpt: |
     Migration of a huge a single legacy perl file (>10.000 lines) to PHP using unit-tests (PHPUnit) and standardized documentation (PHPDoc)
 ---

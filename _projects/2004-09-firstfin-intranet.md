@@ -11,7 +11,6 @@ tags:
     - CMS
     - CSS
     - HTML
-    - Intranet
     - Javascript
     - MySQL
     - PHP

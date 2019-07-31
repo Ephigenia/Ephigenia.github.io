@@ -10,14 +10,14 @@ agencies:
     - moresleep
 tags:
     - Angular
-    - Javascript
-    - HTML
-    - Mocha
-    - Game
-    - Test Driven Development
-    - TDD
     - Continuous Deployment
-    - Heroku
+    - Game
+    - heroku
+    - HTML
+    - Javascript
+    - Mocha
+    - Test Driven Development
+    - Unit-Tests
     - Webpack
 ---
 Im Sommer 2016 wurde ich von [{{site.data.agencies.moresleep.name}}](site.data.agencies.moresleep.url) beauftragt, einen Persönlichkeits-Test namens [Radical Agility Superheroes](https://tech.zalando.com/radical-agility-superheroes/) für die Technik-Abteilung von [{{site.data.clients.zalando.name}}]({{site.data.clients.zalando.url}}) zu programmieren. Nach Beantwortung verschiedener Fragen, wird man in der Auswertung einem bestimmten Charakter zugeordnet, der zu einem der drei Säulen von [Radical Agility](https://blog.zalando.de/de/blog/ein-jahr-radical-agility-ein-resuemee) passt: Autonomy, Purpose oder Mastery:

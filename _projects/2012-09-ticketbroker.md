@@ -9,11 +9,12 @@ agencies:
     - foobugs
 tags:
     - API
-    - Backbone
+    - Backbone.js
     - Bootstrap
     - CoffeeScript
     - CSS
     - grunt
+    - GitHub
     - HTML
     - Javascript
     - MySQL
@@ -22,8 +23,8 @@ tags:
     - REST
     - SCRUM
     - Symfony
-    - TDD
     - Test Driven Development
+    - Unit-Tests
     - Web-Application
 ---
 - Frontend- & Backend-Entwicklung

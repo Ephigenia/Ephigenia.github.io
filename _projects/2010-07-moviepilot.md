@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Movipilot Techblog Theme
+title: Moviepilot Techblog Theme
 published: true
 period: 2010-07
 clients:
@@ -8,6 +8,7 @@ clients:
 tags:
     - CSS
     - HTML
-    - Template
+    - Templates
+    - Theme
 ---
 posterous theme für’s tech blog von moviepilot

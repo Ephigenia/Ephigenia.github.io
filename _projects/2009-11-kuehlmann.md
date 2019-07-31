@@ -12,5 +12,5 @@ tags:
     - CSS
     - CMS
     - MySQL
-    - Template
+    - Templates
 ---

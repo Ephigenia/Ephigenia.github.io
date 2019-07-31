@@ -8,14 +8,14 @@ clients:
 agencies:
     - foobugs
 tags:
-    - Web-Application
-    - CoffeeScript
-    - Backbone
-    - Chai
-    - Mocha
-    - Grunt
-    - REST
     - API
+    - Backbone.js
+    - CoffeeScript
+    - grunt
+    - Mocha
+    - REST
+    - Unit-Tests
+    - Web-Application
 excerpt: |
     Mainly Javascript/CoffeeScript-development for the berlin based ad network & targeting technology provider. Initial concepts & click-dummy as well as  development to create a new version of the companies dashboard solution which consumed a REST API.
 ---

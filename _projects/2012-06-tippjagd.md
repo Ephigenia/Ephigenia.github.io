@@ -6,13 +6,12 @@ period: 2012-06 – 2013-02
 agencies:
     - foobugs
 tags:
-    - Backbone
+    - Backbone.js
     - Doctrine
     - Facebook
-    - Football
     - Game
+    - GitHub
     - Guzzle
-    - Integration-Tests
     - MySQL
     - PHP
     - PHPUnit

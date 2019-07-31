@@ -6,10 +6,12 @@ published: true
 clients: 
     - satoshipay
 tags:
+    - CI
+    - Consulting
+    - GitHub
+    - node.js
     - PhantomJS
     - SauceLabs
-    - GitHub
-    - Consulting
 excerpt: |
     Consulting and support for creating first integration test suites running with SauceLabs.
 ---

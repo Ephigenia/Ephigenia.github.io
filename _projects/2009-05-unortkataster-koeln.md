@@ -6,8 +6,8 @@ period: 2009-05
 clients:
     - khm
 tags:
+    - Consulting
     - CSS
     - HTML
     - PHP
-    - Constulting
 ---

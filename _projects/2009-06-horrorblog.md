@@ -6,7 +6,6 @@ published: true
 tags:
     - App
     - CMS
-    - Editorial
     - Marketing
     - MySQL
     - PHP

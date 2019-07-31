@@ -8,11 +8,13 @@ agencies:
     - hybridheroes
 tags:
     - Bash
+    - CI
     - Continuous Deployment
     - Continuous Integration
     - Conventional-Changelog
     - Docker
     - ESLint
+    - express
     - Gitlab
     - Gitlab CI
     - Javascript
@@ -21,17 +23,18 @@ tags:
     - Migration
     - Mocha
     - MySQL
-    - NGINX
     - node.js
     - OpenAPI
     - Semantic Release
     - Semver
     - sequelize
+    - Sinon
     - SQLite
     - Swagger
-    - TDD
     - Test Driven Development
+    - Unit-Tests
     - umzug
+    - Winston
 excerpt: |
     Concept and development of a REST-API service written in node.js with continuous integration, testing & deployment using docker and gitlab ci.
 ---

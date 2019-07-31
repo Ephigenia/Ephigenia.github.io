@@ -10,7 +10,7 @@ agencies:
 tags:
     - CMS
     - CSS
-    - Google-Maps
+    - Google Maps
     - HTML
     - MySQL
     - PHP

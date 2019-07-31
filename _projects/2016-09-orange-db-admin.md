@@ -12,10 +12,14 @@ agencies:
 tags:
     - Angular
     - Bootstrap
+    - CI
+    - CircleCI
     - Continuous Deployment
     - Continuous Integration
-    - CircleCI
+    - Conventional-Changelog
     - ESLint
+    - GitHub
+    - grunt
     - heroku
     - HTML
     - Javascript
@@ -23,14 +27,13 @@ tags:
     - Mocha
     - OAuth
     - REST
-    - Test Driven Development
-    - TDD
-    - Web-Application
-    - OAuth
-    - Grunt
-    - Conventional-Changelog
     - Semver
+    - Semantic Release
     - Sentry.io
+    - Test Driven Development
+    - TypeScript
+    - Unit-Tests
+    - Web-Application
 excerpt:
     AngularJS Web-Application development with typical CRUD actions which consumes a REST-Service and authenticates with OAuth2. Used by Continuous Deployment, Test Driven Development.
 ---

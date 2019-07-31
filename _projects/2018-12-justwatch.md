@@ -9,16 +9,23 @@ clients:
 tags:
     - Angular
     - Bootstrap
+    - CI
+    - Continuous Integration
+    - Conventional-Changelog
+    - Gitlab
+    - Gitlab CI
     - i18n
     - Ionic
     - Javascript
     - Jest
+    - Jira
     - OAuth
-    - Prettier
     - Redux  
-    - refactoring
+    - Refactoring
     - REST
+    - Sinon
     - TypeScript
+    - Unit-Tests
     - vue
     - Webpack
 excerpt: |
