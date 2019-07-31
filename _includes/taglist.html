@@ -2,7 +2,7 @@
   <ul class="list-inline">
   {% for tag in include.tags %}
     <li>
-      <a class="tag tag-default" href="{{ site.baseurl }}/tag#{{ tag | slugify }}">{{ tag }}</a>
+      <a class="tag tag-default" href="{{ site.baseurl }}/{{ include.targetUri }}#{{ tag | slugify }}">{{ tag }}</a>
     </li>
   {% endfor %}
   </ul>

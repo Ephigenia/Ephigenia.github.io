@@ -5,16 +5,36 @@ permalink: /project/
 nav: false
 priority: 4
 ---
-<ul>
-  <!-- projects are ordered by filename -->
-  {% assign p = site.projects | where:"approved",true %}
-  {% for project in p reversed %}
-  <li>
-    <a href="{{site.baseurl}}{{project.url}}">{{ project.title }}</a>
-    <time>{{ project.period }}</time>
-  </li>
-  {% endfor %}
-</ul>
-<p class="muted text-centered" style="margin-top: 3rem; margin-bottom: 2rem;">
-  <small>This list should be much longer but most of the texts are work in progress and cannot be published right now.</small>
-</p>
+{% assign projects = site.projects %}
+{% assign tags = "" | split: ", " %}
+{% for project in projects %}
+  {% assign tags = tags | concat: project.tags %}
+{% endfor %}
+
+{% assign tags = tags | uniq | sort %}
+{% for tag in tags %}
+  <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+  <ul>
+    {% for project in projects reversed %}
+    {% if project.tags contains tag %}
+    <li>
+      {% if project.published %}
+        <a href="{{site.baseurl}}{{project.url}}">{{ project.title }}</a>
+      {% else %}
+        {{ project.title }}
+      {% endif %}
+      <small>
+        <dl class="list-inline">
+          <dt>
+            interval
+          </dt>
+          <dd>
+            {{ project.period }}
+          </dd>
+        </dl>
+      </small>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
