@@ -8,4 +8,5 @@ clients:
 tags:
     - HTML
     - CSS
+    - Templates
 ---

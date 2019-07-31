@@ -16,9 +16,10 @@ tags:
     - Docker
     - ESLint
     - express
-    - JavaScript
+    - Javascript
     - Jira
     - JWT
+    - Mattermost
     - Mocha
     - node.js
     - REST

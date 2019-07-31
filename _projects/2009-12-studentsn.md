@@ -6,11 +6,11 @@ period: 2009-12 – 2010-03
 clients:
     - studentsn
 tags:
-    - PHP
     - CSS
     - HTML
-    - Javascript
     - Jabber
+    - Javascript
+    - PHP
 excerpt: |
-    Integration of a jabber server & client to the allready existing social network solution by creating a whole new jabber api client written in JavaScript.
+    Integration of a jabber server & client to the allready existing social network solution by creating a whole new jabber api client written in Javascript.
 ---

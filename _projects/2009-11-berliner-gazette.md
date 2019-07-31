@@ -11,8 +11,10 @@ tags:
     - PHP
     - Responsive
     - SASS
+    - Templates
+    - Wordpress Theme
     - Wordpress
-    - Wordpress-Plugin
+    - Wordpress Plugin
 ---
 - Relaunch der gesamten Website auf Wordpress Basis
 - Programmierung und Integration von verschiedenen  Plugins

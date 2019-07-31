@@ -4,10 +4,10 @@ title: Susanne Paschke / Vishaka.de Website
 published: true
 period: 2006-02 – 2006-05
 tags:
-    - HTML
-    - CSS
-    - Templates
     - CMS
+    - CSS
+    - HTML
+    - Templates
 ---
 Für die Illustratorin Susanne Paschke erfolgte die Umsetzung eines umfangreichen Portfolios, das außerdem eine einfache Administration aller Bereiche ermöglicht.
 

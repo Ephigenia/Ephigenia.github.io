@@ -8,9 +8,10 @@ clients:
 agencies:
     - 908video
 tags:
-    - PHP
-    - CSS
-    - Templates
-    - HTML
     - CMS
+    - CSS
+    - HTML
+    - MySQL
+    - PHP
+    - Templates
 ---

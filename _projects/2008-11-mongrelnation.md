@@ -8,8 +8,9 @@ clients:
 agencies:
     - nomoresleep
 tags:
+    - CMS
     - CSS
     - HTML
-    - CMS
+    - MySQL
     - Templates
 ---

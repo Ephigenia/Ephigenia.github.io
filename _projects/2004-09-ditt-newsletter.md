@@ -8,10 +8,10 @@ clients:
 agencies:
     - elementar
 tags:
-    - Newsletter
-    - HTML
     - CSS
     - E-Mail
+    - HTML
+    - Newsletter
     - Templates
 excerpt: |
     Creation of multiple templates used as newsletter emails and testing on multiple clients too.

@@ -12,6 +12,6 @@ tags:
     - PHP
     - jQuery
     - AJAX
-    - JavaScript
+    - Javascript
 ---
 Beratung für PHP Frameworks, jQuery, Ajax

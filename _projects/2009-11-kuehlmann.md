@@ -10,5 +10,7 @@ agencies:
 tags:
     - HTML
     - CSS
+    - CMS
+    - MySQL
     - Template
 ---

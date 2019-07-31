@@ -8,14 +8,15 @@ clients:
 agencies:
     - jwd
 tags:
-    - PHP
-    - HTML
-    - CSS
-    - Javascript
-    - Templates
     - CMS
-    - Shop
+    - CSS
+    - HTML
     - Intranet
+    - Javascript
+    - MySQL
+    - PHP
+    - Shop
+    - Templates
 ---
 - Website Templates
 - Intranet online shop für Sales-Agents

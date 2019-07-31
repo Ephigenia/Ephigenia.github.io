@@ -4,14 +4,12 @@ title: Horrorblog
 period: 2009-06 – 2011-11
 published: true
 tags:
-    - PHP
-    - CMS
-    - Public Relations
-    - Marketing
-    - Publishing
     - App
-    - Publishing
+    - CMS
     - Editorial
+    - Marketing
+    - MySQL
+    - PHP
 excerpt: |
 ---
 

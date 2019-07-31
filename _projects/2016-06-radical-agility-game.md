@@ -10,7 +10,7 @@ agencies:
     - moresleep
 tags:
     - Angular
-    - JavaScript
+    - Javascript
     - HTML
     - Mocha
     - Game

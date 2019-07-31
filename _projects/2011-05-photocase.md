@@ -6,11 +6,12 @@ period: 2011-05 – 2011-10
 clients:
     - photocase
 tags:
-    - HTML
-    - CSS
-    - Templates
-    - SASS
     - Compass
+    - CSS
+    - HTML
+    - Responsive
+    - SASS
+    - Templates
 excerpt: |
     Development of different responsive, full page templates from client provided designs in HTML and SASS/CSS.
 ---

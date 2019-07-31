@@ -6,13 +6,13 @@ period: 2010-03 – 2013-03
 clients:
     - lead1ng
 tags:
-    - Conception
-    - PHP
-    - HTML
     - CSS
-    - PHPUnit
-    - Guzzle
     - Doctrine
+    - Guzzle
+    - HTML
+    - MySQL
+    - PHP
+    - PHPUnit
 ---
 - Frontend- und Backend-Entwicklung
 - Konzeption, Design Multi-Client Intranet-Platform

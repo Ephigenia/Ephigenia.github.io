@@ -21,10 +21,11 @@ tags:
     - grunt
     - i18n
     - iOS
+    - MySQL
     - OAuth
     - PHP
     - PHPUnit
-    - project-management
+    - Project-Management
     - REST
     - SCRUM
     - Social-Network

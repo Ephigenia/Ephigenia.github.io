@@ -7,10 +7,11 @@ clients:
     - csnmetals
 tags:
     - CMS
-    - Templates
-    - HTML
     - CSS
+    - HTML
+    - MySQL
     - PHP
+    - Templates
 excerpt:
     Flat file content-management system as well as a price table system and templates for the company.
 ---

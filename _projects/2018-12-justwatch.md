@@ -11,7 +11,7 @@ tags:
     - Bootstrap
     - i18n
     - Ionic
-    - JavaScript
+    - Javascript
     - Jest
     - OAuth
     - Prettier

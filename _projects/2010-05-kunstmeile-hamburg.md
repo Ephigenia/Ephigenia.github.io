@@ -8,11 +8,11 @@ clients:
 agencies:
     - thegreeneyl
 tags:
-    - PHP
-    - CSS
-    - HTML
-    - Templates
     - CMS
-    - MySQL
+    - CSS
     - Google-Maps
+    - HTML
+    - MySQL
+    - PHP
+    - Templates
 ---

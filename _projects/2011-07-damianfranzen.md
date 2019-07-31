@@ -12,6 +12,7 @@ tags:
     - CSS
     - Compass
     - HTML
+    - MySQL
     - Templates
     - CMS
 excerpt:

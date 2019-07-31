@@ -13,8 +13,8 @@ tags:
     - HTML
     - Ionic
     - iOS
-    - JavaScript
+    - Javascript
     - TypeScript
 excerpt: |
-    Implement additional features as well as improving/refactoring existing code of an ionic/angular application targeting iOS mobile devices using TypeScript and JavaScript.
+    Implement additional features as well as improving/refactoring existing code of an ionic/angular application targeting iOS mobile devices using TypeScript and Javascript.
 ---

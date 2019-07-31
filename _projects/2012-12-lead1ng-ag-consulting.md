@@ -9,6 +9,7 @@ agencies:
     - foobugs
 tags:
     - consulting
+    - MySQL
 ---
 - Analyse, Dokumentation, Migrations-Szenario Analyse
 - Analyse, Dokumentation PHP Anwendung (Sicherheit, Qualität etc.)

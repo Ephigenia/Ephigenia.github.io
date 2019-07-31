@@ -72,7 +72,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 
 ## Expertise
 
-- Web-Application development JavaScript & PHP
+- Web-Application development Javascript & PHP
 - Service-Oriented Architecture
 - Test-Driven Development & Unit-Testing
 - Refactoring & Improving Project Quality

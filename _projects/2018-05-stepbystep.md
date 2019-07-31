@@ -15,7 +15,7 @@ tags:
     - ESLint
     - Gitlab
     - Gitlab CI
-    - JavaScript
+    - Javascript
     - Jira
     - JWT
     - Migration

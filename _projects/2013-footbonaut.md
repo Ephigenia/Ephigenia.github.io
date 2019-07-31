@@ -12,9 +12,10 @@ tags:
     - Electron
     - GitHub
     - HTML
-    - JavaScript
+    - Javascript
     - node.js
     - Mocha
+    - MySQL
     - Karma
     - CircleCI
     - Sentry.io

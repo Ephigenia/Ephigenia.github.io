@@ -18,7 +18,7 @@ tags:
     - ESLint
     - heroku
     - HTML
-    - JavaScript
+    - Javascript
     - Karma
     - Mocha
     - OAuth
