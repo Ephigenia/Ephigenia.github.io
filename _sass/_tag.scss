@@ -6,4 +6,7 @@
 }
 .tag-default {
   background-color: mix($background-color, $text-color, 90%);
+  @media (prefers-color-scheme: dark) {
+    background-color: mix(invert($background-color), $brand-color, 50%);
+  }
 }

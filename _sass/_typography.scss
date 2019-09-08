@@ -1,6 +1,9 @@
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
+  @media (prefers-color-scheme: dark) {
+    color:invert($text-color);
+  }
 }
 
 figcaption {
@@ -86,20 +89,34 @@ a {
   color: $text-color;
   transition: all 0.25s ease-in;
   outline: 2px solid transparent;
+  @media (prefers-color-scheme: dark) {
+    color: invert($text-color);
+    background-color:invert($background-color);
+  }
 }
 
 a:visited {
   color: $text-color;
+  @media (prefers-color-scheme: dark) {
+    color: invert($text-color);
+  }
 }
 
 a:active,
 a:hover {
   outline: 2px solid $brand-color;
   background: $brand-color;
+  @media (prefers-color-scheme: dark) {
+    outline: 2px solid invert($brand-color);
+    background:invert($brand-color);
+  }
 }
 
 .muted {
   color: $text-muted;
+  @media (prefers-color-scheme: dark) {
+    color: invert($text-muted);
+  }
 }
 
 // big quotes
@@ -111,6 +128,11 @@ blockquote {
   margin-right: 0.5rem;
   font-style: italic;
   font-weight: 300;
+
+  @media (prefers-color-scheme: dark) {
+    color: invert($text-muted);
+    border-color-left: mix(invert($text-color), $background-color, 10%);
+  }
 
   > :last-child {
     margin-bottom: 0;

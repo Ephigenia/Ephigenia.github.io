@@ -1,6 +1,10 @@
 body {
   background-color: $background-color;
+  @media (prefers-color-scheme: dark) {
+    background-color:invert($background-color);
+  }
 }
+
 
 html {
   min-height: 100%;
