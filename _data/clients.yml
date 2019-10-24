@@ -38,6 +38,9 @@ cgoal:
   name: C-Goal Sports Training System GmbH
 crescon:
   name: Crescon AG
+creamfinance:
+  name: Creamfinance
+  url: https://www.creamfinance.com/
 csnmetals:
   name: CSN Carl Schreiber
   url: http://www.csnmetals.de
@@ -64,6 +67,9 @@ escapio:
   name: Escapio
 elephant-hotel:
   name: Designhotel Elephant Prag
+f11:
+  name: Factor Eleven
+  url: https://www.factor-eleven.de/
 familieredlich:
   name: Familie Redlich
   url: http://www.familie-redlich.de/startseite/
