@@ -14,7 +14,7 @@ Between 2009 and 2011, I ran Germany’s biggest horror movie blog – based on 
 
 Following this, I co-founded [foobugs](http://www.foobugs.com). From 2011 to 2015 we provided PHP, node.js and front-end support, in addition to IT consulting and quality assurance, for both start-ups and established companies. Between 2014–2016, I’ve been a partner of media monitoring company, [Toocan](http://www.toocan.biz).
 
-Recently, I’ve focused on supporting project teams, based on the experience gleaned from 16 year’s of successful – and failed – web projects. I understand the importance of creating clean, fast performing code, as well as defining a clearly structured product. I also acknowledge maintaining a certain quality and well mapped-out processes.
+Recently, I’ve focused on supporting project teams, based on the experience gleaned from 18 year’s of successful – and failed – web projects. I understand the importance of creating clean, fast performing code, as well as defining a clearly structured product. I also acknowledge maintaining a certain quality and well mapped-out processes.
 
 ## Work History
 
