@@ -12,6 +12,7 @@ tags:
     - Workshop
     - PHP
     - git
+    - Migration
 excerpt: |
     Introduced git version control system in a one-day workshop and consulting for migrating legacy PHP code to PHP 5.4 using static code analysis frameworks like code sniffer.
 ---

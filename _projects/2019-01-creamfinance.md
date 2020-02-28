@@ -9,6 +9,7 @@ agencies:
 clients:
     - creamfinance
 tags:
+    - API
     - Bamboo
     - Bitbucket
     - CI

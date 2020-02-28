@@ -61,6 +61,9 @@ dmig:
   url: https://www.designmadeingermany.de/
 dtagservices:
   name: Deutsche Telekom Network and Services GmbH
+dtad:
+  name: DTAD Deutscher Auftragsdienst AG
+  url: https://www.dtad.com/
 erstererster:
   name: ErsterErster
 escapio:

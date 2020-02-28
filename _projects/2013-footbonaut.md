@@ -7,8 +7,10 @@ clients:
     - cgoal
 tags:
     - Backbone.js
+    - CI
     - CircleCI
     - CoffeeScript
+    - Continuous Integration
     - CSS
     - Electron
     - GitHub
@@ -19,6 +21,7 @@ tags:
     - MySQL
     - node.js
     - Refactoring
+    - Semver
     - Sentry.io
     - Sinon
     - Unit-Tests

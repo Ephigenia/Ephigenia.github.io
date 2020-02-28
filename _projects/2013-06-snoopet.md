@@ -15,6 +15,8 @@ tags:
     - Bootstrap
     - ChaplinJS
     - CoffeeScript
+    - CI
+    - CircleCI
     - Continuous Integration
     - Cordova
     - grunt

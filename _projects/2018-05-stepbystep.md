@@ -7,6 +7,7 @@ approved: false
 agencies:
     - hybridheroes
 tags:
+    - API
     - Bash
     - CI
     - Continuous Deployment
@@ -33,8 +34,8 @@ tags:
     - SQLite
     - Swagger
     - Test Driven Development
-    - Unit-Tests
     - umzug
+    - Unit-Tests
     - Winston
 excerpt: |
     Concept and development of a REST-API service written in node.js with continuous integration, testing & deployment using docker and gitlab ci.
