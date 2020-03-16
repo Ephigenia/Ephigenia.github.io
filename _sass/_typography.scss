@@ -107,8 +107,7 @@ a:hover {
   outline: 2px solid $brand-color;
   background: $brand-color;
   @media (prefers-color-scheme: dark) {
-    outline: 2px solid invert($brand-color);
-    background:invert($brand-color);
+    color: $text-color;
   }
 }
 

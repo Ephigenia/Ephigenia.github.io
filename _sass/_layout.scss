@@ -46,6 +46,9 @@ body > header {
         height: 15px;
 
         path {
+          @media (prefers-color-scheme: dark) {
+            fill: invert($text-color);
+          }
           fill: $text-color;
         }
       }
