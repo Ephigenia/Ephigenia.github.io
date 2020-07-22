@@ -77,7 +77,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 - Test-Driven Development & Unit-Testing
 - Refactoring & Improving Project Quality
 - Continuous Deployment & Integration
-- API-Design (REST)
+- API-Design (REST, GraphQL)
 - Team Building & Leadership
 - Project Management
 
