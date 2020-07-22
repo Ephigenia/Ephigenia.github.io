@@ -72,8 +72,8 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 
 ## Expertise
 
-- Web-Application development Javascript & PHP
-- Service-Oriented Architecture
+- Web-Application development in Javascript & PHP
+- Service & Microservice-Oriented Architectures
 - Test-Driven Development & Unit-Testing
 - Refactoring & Improving Project Quality
 - Continuous Deployment & Integration
@@ -81,13 +81,17 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 - Team Building & Leadership
 - Project Management
 
+## Open Source
+
+Check my [profile on github](https://github.com/Ephigenia) to see some of my own open-source projects and contributions to other projects through the years. If you like my work you can [sponsor me](https://github.com/sponsors/Ephigenia).
+
 ## Skills
 
 - Version Control Systems: git, svn, cvs
 - Javascript/Node.js
-    - Angular, Vue, React, Backbone.js, jQuery, Highcharts, Highstock
-    - NPM, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Loggly, moment
-    - Mocha, Tape, Jasmine, Jest, Chai, Karma, Sinon, Istanbul, Nock, NYC, Supertest
+    - Vue, React, Angular, Backbone.js, jQuery, Highcharts, Highstock
+    - NPM, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Loggly, moment, Winston
+    - Mocha, Tape, Jasmine, Jest, Chai, Karma, Sinon, Istanbul, Nock, NYC, Supertest, postman, newman
     - mongoose, sequelize
     - express, loopback
     - electron
@@ -107,17 +111,20 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 - HTML/Templating
     - TWIG, Smarty, Fluid, handlebars
 - Technologies
-    - Redis, RabbitMQ
-    - MySQL, PostgreSQL, SQLLite, MongoDB, Elasticsearch, Firebase
+    - Redis, RabbitMQ, SQS
+    - MySQL, MariaDb, PostgreSQL, SQLLite, MongoDB, Elasticsearch, Firebase
     - Jekyll
+    - Mailhog
     - Docker, Kubernetes
-    - Swagger, OpenAPI
+    - Swagger, OpenAPI, ApiDoc
+    - XRay
+    - Tmux
 
 ## API
 
 Some of the APIs that I have consumed and worked with through the years:
 
-CircleCi, Facebook, Foursquare, Github, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Mite, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, Yelp
+Adspirit, CircleCi, DHL, DPD, Facebook, Foursquare, Github, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Mite, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Yelp
 
 ## Honors
 
