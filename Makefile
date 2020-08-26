@@ -1,5 +1,6 @@
-all:
-	bundle exec jekyll serve
+all: start
+
+start: serve
 
 preview:
 	bundle exec jekyll server --unpublished --drafts --future
@@ -11,5 +12,5 @@ clean:
 	rm -rf _site
 	rm -rf .sass-cache
 
-start:
+serve:
 	bundle exec jekyll serve

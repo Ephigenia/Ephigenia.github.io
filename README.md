@@ -1,4 +1,4 @@
-These are the sources of my website. Based on the automatic site generator [jekyll](https://jekyllrb.com) it’s deployed to [github pages](https://pages.github.com/).
+These are the sources of my website: [ephigenia.de](https://www.ephigenia.de). Based on the automatic site generator [jekyll](https://jekyllrb.com) it’s deployed to [github pages](https://pages.github.com/).
 
 ## Requirements
 
@@ -7,18 +7,18 @@ These are the sources of my website. Based on the automatic site generator [jeky
 
 ## Setup
 
-    bundle install
+    make install
 
 ## Local Development
 
 Run local jekyll server:
 
-    JEKYLL_ENV=development bundle exec jekyll serve
+    JEKYLL_ENV=development make start
 
 Run in production mode:
 
-    JEKYLL_ENV=production bundle exec jekyll serve
+    JEKYLL_ENV=production make start
 
-Enable unpublishd, draft and future posts when generating:
+Enable unpublished, draft and future posts when generating:
 
-    bundle exec jekyll server --unpublished --drafts --future
+    make preview
