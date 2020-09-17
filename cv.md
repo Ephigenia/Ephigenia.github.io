@@ -6,7 +6,7 @@ nav: true
 published: true
 priority: 0
 ---
-<img class="post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/fisheye_512x512thai.jpg" title="Marcel Eichner Portrait" />
+<img class="post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/202006-Potsdam.jpg" title="Marcel Eichner Portrait" />
 
 A born and bred Berliner, I started working as a freelance web developer at the age of 18, in 2001. After dabbling in media art and communication design, I discovered my real passion lay in the front- and back-end development of online travel communities, social networks and science projects.
 
