@@ -12,7 +12,8 @@ ul {
   margin-bottom: 1rem;
 
   li {
-    margin-left: 1.125rem;
+    margin-left: 1.5rem;
+    list-style-type: square;
     // nested lists should not have margin bottom
     ol,
     ul {
