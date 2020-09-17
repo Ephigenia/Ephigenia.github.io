@@ -87,29 +87,28 @@ em {
 a {
   font-weight: 400;
   color: $text-color;
-  transition: all 0.25s ease-in;
-  outline: 2px solid transparent;
   @media (prefers-color-scheme: dark) {
     color: invert($text-color);
     background-color:invert($background-color);
   }
-}
 
-a:visited {
-  color: $text-color;
-  @media (prefers-color-scheme: dark) {
-    color: invert($text-color);
-  }
-}
-
-a:active,
-a:hover {
-  outline: 2px solid $brand-color;
-  background: $brand-color;
-  @media (prefers-color-scheme: dark) {
+  &:visited {
     color: $text-color;
+    @media (prefers-color-scheme: dark) {
+      color: invert($text-color);
+    }
+  }
+
+  &:active,
+  &:hover {
+    outline: 2px solid $brand-color;
+    background: $brand-color;
+    @media (prefers-color-scheme: dark) {
+      color: $text-color;
+    }
   }
 }
+
 
 .muted {
   color: $text-muted;
