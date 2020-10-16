@@ -3,16 +3,20 @@
 ---
 @charset "utf-8";
 
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700|Roboto+Mono:300');
 
 // Our variables
-$base-font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$base-font-weight: 300;
-$small-font-size:  $base-font-size * 0.875;
+// @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700|Roboto+Mono:300');
+// $base-font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial,
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap');
+$base-font-family: "Work Sans";
+$base-font-size:   22px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.75;
 $base-line-height: 1.75;
 
-$headline-font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $headline-font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+$headline-font-family: "Arvo", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 $text-color:       #000;
 $background-color: #fff;
@@ -26,7 +30,7 @@ $code-text-color: $text-color;
 $code-background-color: #eef;
 
 // grid
-$content-width:    800px;
+$content-width:    1024px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
