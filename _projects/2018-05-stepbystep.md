@@ -1,6 +1,6 @@
 ---
 layout: project
-title: stepbystep
+title: stepbystep / I-Reach
 period: 2018-04 – 2018-11
 published: true
 approved: false
