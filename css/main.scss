@@ -7,11 +7,11 @@
 // Our variables
 // @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700|Roboto+Mono:300');
 // $base-font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial,
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap');
-$base-font-family: "Work Sans";
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600&display=swap');
+$base-font-family: "Epilogue";
 $base-font-size:   22px;
 $base-font-weight: 400;
-$small-font-size:  $base-font-size * 0.75;
+$small-font-size: 80%;
 $base-line-height: 1.75;
 
 // $headline-font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -23,6 +23,7 @@ $background-color: #fff;
 $text-muted:       mix($text-color, $background-color, 50%);
 $brand-color:      #FFF100;
 $grey-color:       mix($background-color, $text-color, 85%);
+
 
 $code-font-family: "Roboto Mono", "Monaco", "Courier New", Courier;
 $code-font-weight: 300;

@@ -4,6 +4,9 @@ body {
   @media (prefers-color-scheme: dark) {
     color:invert($text-color);
   }
+  @media print {
+    font-size: $base-font-size * 0.5;
+  }
 }
 
 figcaption {
@@ -34,13 +37,15 @@ h1 {
   margin-left: -2rem;
   font-size: 5rem;
   line-height: 4rem;
-  color: #f7baae
+  color: #ffb6b9;
 }
 
 h2 {
   font-family: $headline-font-family;
   font-size: 2rem;
   line-height: 3rem;
+  color: #8ac6d1;
+  margin-left: -0.5em;
 }
 
 h3 {
