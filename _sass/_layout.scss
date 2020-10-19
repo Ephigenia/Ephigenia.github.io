@@ -81,6 +81,7 @@ body > header {
  * Site footer
  */
 body > footer {
+  border-top: 0.5rem solid $headline-color;
   margin-top: 2rem;
   padding: 1rem;
 }

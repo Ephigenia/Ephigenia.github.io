@@ -7,21 +7,23 @@
 // Our variables
 // @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700|Roboto+Mono:300');
 // $base-font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial,
-@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600&display=swap');
-$base-font-family: "Epilogue";
+// @import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600&display=swap');
+$base-font-family: "Helvetica Neue";
 $base-font-size:   22px;
 $base-font-weight: 400;
 $small-font-size: 80%;
 $base-line-height: 1.75;
 
 // $headline-font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
-@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
-$headline-font-family: "Arvo", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
+$headline-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$headline-color: #f03c36;
+$headline2-color: #01874f;
 
 $text-color:       #000;
 $background-color: #fff;
 $text-muted:       mix($text-color, $background-color, 50%);
-$brand-color:      #FFF100;
+$brand-color:      #f03c36;
 $grey-color:       mix($background-color, $text-color, 85%);
 
 
