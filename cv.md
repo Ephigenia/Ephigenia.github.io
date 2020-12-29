@@ -93,7 +93,7 @@ Check my [profile on github](https://github.com/Ephigenia) to see some of my own
     - NPM, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Loggly, moment, Winston
     - Mocha, Tape, Jasmine, Jest, Chai, Karma, Sinon, Istanbul, Nock, NYC, Supertest, postman, newman
     - mongoose, sequelize
-    - express, loopback
+    - express, loopback, fastify
     - electron
     - Ionic, Cordova
     - CoffeeScript
@@ -116,9 +116,9 @@ Check my [profile on github](https://github.com/Ephigenia) to see some of my own
     - Jekyll
     - Mailhog
     - Docker, Kubernetes
-    - Swagger, OpenAPI, ApiDoc
+    - Swagger, OpenAPI, ApiDoc, GraphQL
     - XRay
-    - Tmux
+    - Tmux, Tmuxinator
 
 ## API
 
