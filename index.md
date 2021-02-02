@@ -12,4 +12,4 @@ Whether it’s back end or front end, apps or web-based services, consulting or 
 
 Here are some of my references from 20 years of coding: Daimler AG, Deutsche Bahn, Axel Springer, Freie Universität Berlin, rbb, JustWatch, Footbonaut, WeSC.
 
-Learn more about my [work](about) or [let me know how I can help you](mailto:marcel.eichner@ephigenia.de).
+Learn more about my [work](about) or [let me know how I can help you](mailto:{{site.email}}).

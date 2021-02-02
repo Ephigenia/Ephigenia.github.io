@@ -17,4 +17,4 @@ When I’m not working, you’ll find me playing around with open-source technol
 
 Let me know how I can support you.
 
-Contact: [marcel.eichner@ephigenia.de](mailto:marcel.eichner@ephigenia.de).
+Contact: [{{site.email}}](mailto:{{site.email}}).
