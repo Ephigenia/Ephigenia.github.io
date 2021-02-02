@@ -8,5 +8,5 @@ clients:
 tags:
     - Flash
     - HTML
-    - Javascript
+    - JavaScript
 ---

@@ -72,7 +72,7 @@ Recently, I’ve focused on supporting project teams, based on the experience gl
 
 ## Expertise
 
-- Web-Application development in Javascript & PHP
+- Web-Application development in JavaScript & PHP
 - Service & Microservice-Oriented Architectures
 - Test-Driven Development & Unit-Testing
 - Refactoring & Improving Project Quality
@@ -88,7 +88,7 @@ Check my [profile on github](https://github.com/Ephigenia) to see some of my own
 ## Skills
 
 - Version Control Systems: git, svn, cvs
-- Javascript/Node.js
+- JavaScript/Node.js
     - Vue, React, Angular, Backbone.js, jQuery, Highcharts, Highstock
     - NPM, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Loggly, moment, Winston
     - Mocha, Tape, Jasmine, Jest, Chai, Karma, Sinon, Istanbul, Nock, NYC, Supertest, postman, newman

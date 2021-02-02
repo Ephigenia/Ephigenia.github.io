@@ -12,7 +12,7 @@ tags:
     - CMS
     - CSS
     - HTML
-    - Javascript
+    - JavaScript
     - MySQL
     - PHP
     - Templates

@@ -13,11 +13,11 @@ tags:
     - HTML
     - Ionic
     - iOS
-    - Javascript
+    - JavaScript
     - Jira
     - Refactoring
     - TypeScript
     - Unit-Tests
 excerpt: |
-    Implement additional features as well as improving/refactoring existing code of an ionic/angular application targeting iOS mobile devices using TypeScript and Javascript.
+    Implement additional features as well as improving/refactoring existing code of an ionic/angular application targeting iOS mobile devices using TypeScript and JavaScript.
 ---

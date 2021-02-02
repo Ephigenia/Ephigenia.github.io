@@ -14,7 +14,7 @@ tags:
     - Game
     - heroku
     - HTML
-    - Javascript
+    - JavaScript
     - Mocha
     - Test Driven Development
     - Unit-Tests

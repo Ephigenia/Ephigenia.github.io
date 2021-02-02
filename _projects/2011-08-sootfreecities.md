@@ -9,7 +9,7 @@ tags:
     - CMS
     - CSS
     - HTML
-    - Javascript
+    - JavaScript
     - Markdown
     - Responsive
     - Templates

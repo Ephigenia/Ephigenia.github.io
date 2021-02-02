@@ -22,7 +22,7 @@ tags:
     - grunt
     - heroku
     - HTML
-    - Javascript
+    - JavaScript
     - Karma
     - Mocha
     - OAuth

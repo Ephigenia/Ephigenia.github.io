@@ -16,7 +16,7 @@ tags:
     - grunt
     - GitHub
     - HTML
-    - Javascript
+    - JavaScript
     - MySQL
     - PHP
     - Project-Management

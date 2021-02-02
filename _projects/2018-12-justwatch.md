@@ -16,7 +16,7 @@ tags:
     - Gitlab CI
     - i18n
     - Ionic
-    - Javascript
+    - JavaScript
     - Jest
     - Jira
     - OAuth

@@ -10,6 +10,6 @@ agencies:
 tags:
     - Consulting
     - PHP
-    - Javascript
+    - JavaScript
 ---
 Beratung für PHP Frameworks, jQuery, Ajax

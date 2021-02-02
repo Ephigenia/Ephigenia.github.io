@@ -20,7 +20,7 @@ tags:
     - ESLint
     - express
     - Firebase
-    - Javascript
+    - JavaScript
     - Jira
     - JSDoc
     - JWT

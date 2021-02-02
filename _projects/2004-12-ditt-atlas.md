@@ -11,7 +11,7 @@ tags:
     - CD-ROM
     - CMS
     - HTML
-    - Javascript
+    - JavaScript
     - Templates
 excerpt: |
     CD-ROM application written in HTML showing a map of italiy where a list of research locations are listed on their geografical position. Web-Driven content-management-system for creating and uploading the contents as well as WYSIWYG features.

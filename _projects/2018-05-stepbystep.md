@@ -18,7 +18,7 @@ tags:
     - express
     - Gitlab
     - Gitlab CI
-    - Javascript
+    - JavaScript
     - Jira
     - JSDoc
     - JWT

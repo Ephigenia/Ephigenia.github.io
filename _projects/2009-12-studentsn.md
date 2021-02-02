@@ -9,8 +9,8 @@ tags:
     - CSS
     - HTML
     - Jabber
-    - Javascript
+    - JavaScript
     - PHP
 excerpt: |
-    Integration of a jabber server & client to the allready existing social network solution by creating a whole new jabber api client written in Javascript.
+    Integration of a jabber server & client to the allready existing social network solution by creating a whole new jabber api client written in JavaScript.
 ---
