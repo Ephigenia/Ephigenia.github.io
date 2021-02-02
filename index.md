@@ -4,7 +4,7 @@ layout: page
 nav: true
 priority: 100
 ---
-# Coding & Consulting since 2001
+## Coding & Consulting since 2001
 
 Hi, I’m a freelance full-stack developer from Berlin, supporting agencies, businesses, and science projects with clean and fast performing [JavaScript](https://www.google.de/search?q=JavaScript) & [PHP](https://www.google.de/search?q=php) since 2001.
 
