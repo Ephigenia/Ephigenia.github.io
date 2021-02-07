@@ -28,7 +28,7 @@ Nach dem Zalando Projekt im letzten Jahr kam MoreSleep wieder auf mich zu … b
 
 Hybrid Heroes
 
-long no-beta-phase, gcloud, node.js, updates, continuous integraation
+long no-beta-phase, gcloud, Node.js, updates, continuous integraation
 
 Compuccino
 

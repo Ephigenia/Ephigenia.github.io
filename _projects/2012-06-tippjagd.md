@@ -9,13 +9,14 @@ tags:
     - Backbone.js
     - Doctrine
     - Facebook
-    - Game
     - GitHub
     - Guzzle
     - MySQL
     - PHP
     - PHPUnit
     - REST
+    - Social-Network
+    - Swagger
     - Symfony
     - Unit-Tests
 ---

@@ -12,6 +12,7 @@ tags:
     - CoffeeScript
     - Continuous Integration
     - CSS
+    - Docker
     - Electron
     - GitHub
     - HTML
@@ -19,7 +20,7 @@ tags:
     - Karma
     - Mocha
     - MySQL
-    - node.js
+    - Node.js
     - Refactoring
     - Semver
     - Sentry.io

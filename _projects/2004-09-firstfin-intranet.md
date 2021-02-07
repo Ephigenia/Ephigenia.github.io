@@ -14,7 +14,6 @@ tags:
     - JavaScript
     - MySQL
     - PHP
-    - Shop
     - Templates
 ---
 - Website Templates

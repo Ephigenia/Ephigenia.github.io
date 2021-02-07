@@ -10,6 +10,7 @@ tags:
     - App
     - Cordova
     - CSS
+    - GitLab
     - HTML
     - Ionic
     - iOS

@@ -9,7 +9,7 @@ tags:
     - CI
     - Consulting
     - GitHub
-    - node.js
+    - Node.js
     - PhantomJS
     - SauceLabs
 excerpt: |

@@ -18,7 +18,7 @@ tags:
     - Conventional-Changelog
     - Docker
     - ESLint
-    - express
+    - Express.js
     - Firebase
     - JavaScript
     - Jira
@@ -26,7 +26,7 @@ tags:
     - JWT
     - Mattermost
     - Mocha
-    - node.js
+    - Node.js
     - OpenAPI
     - PostgreSQL
     - Push-Notifications

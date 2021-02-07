@@ -13,12 +13,12 @@ tags:
     - API
     - Backbone.js
     - Bootstrap
-    - ChaplinJS
     - CoffeeScript
     - CI
     - CircleCI
     - Continuous Integration
     - Cordova
+    - Doctrine
     - grunt
     - i18n
     - iOS

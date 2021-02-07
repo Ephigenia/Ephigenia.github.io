@@ -15,7 +15,7 @@ tags:
     - Conventional-Changelog
     - Docker
     - ESLint
-    - express
+    - Express.js
     - Gitlab
     - Gitlab CI
     - JavaScript
@@ -25,7 +25,7 @@ tags:
     - Migration
     - Mocha
     - MySQL
-    - node.js
+    - Node.js
     - OpenAPI
     - Semantic Release
     - Semver
@@ -34,7 +34,6 @@ tags:
     - SQLite
     - Swagger
     - Test Driven Development
-    - umzug
     - Unit-Tests
     - Winston
 excerpt: |

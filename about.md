@@ -105,11 +105,11 @@ Check my [profile on github](https://github.com/Ephigenia) to see some of my own
 
 - Version Control Systems: git, svn, cvs
 - JavaScript/Node.js
-    - Vue, React, Angular, Backbone.js, jQuery, Highcharts, Highstock
+    - Vue.js, React, Angular, Backbone.js, jQuery, Highcharts, Highstock
     - NPM, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Loggly, moment, Winston
     - Mocha, Tape, Jasmine, Jest, Chai, Karma, Sinon, Istanbul, Nock, NYC, Supertest, postman, newman
     - mongoose, sequelize
-    - express, loopback, fastify
+    - Express.js, loopback, fastify, NestJS
     - electron
     - Ionic, Cordova
     - CoffeeScript
@@ -140,7 +140,7 @@ Check my [profile on github](https://github.com/Ephigenia) to see some of my own
 
 Some of the APIs that I have consumed and worked with through the years:
 
-Adspirit, CircleCi, DHL, DPD, Facebook, Foursquare, Github, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Mite, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Yelp
+Adspirit, CircleCi, DHL, DPD, Facebook, Foursquare, Github, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Mattermost, Mite, Slack, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Yelp
 
 ## Honors
 

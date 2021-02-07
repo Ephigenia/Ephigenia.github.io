@@ -12,6 +12,7 @@ tags:
     - CI
     - Continuous Integration
     - Conventional-Changelog
+    - ESLint
     - Gitlab
     - Gitlab CI
     - i18n
@@ -19,6 +20,7 @@ tags:
     - JavaScript
     - Jest
     - Jira
+    - Migration
     - OAuth
     - Redux  
     - Refactoring
@@ -26,7 +28,7 @@ tags:
     - Sinon
     - TypeScript
     - Unit-Tests
-    - vue
+    - Vue.js
     - Webpack
 excerpt: |
     Supporting justwatch’s team in refactoring the legacy angular application to modern vue and ionic 4.

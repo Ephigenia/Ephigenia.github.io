@@ -13,6 +13,7 @@ tags:
     - Bootstrap
     - CoffeeScript
     - CSS
+    - Doctrine
     - grunt
     - GitHub
     - HTML

@@ -12,6 +12,7 @@ tags:
     - Angular
     - Continuous Deployment
     - Game
+    - GitHub
     - heroku
     - HTML
     - JavaScript
