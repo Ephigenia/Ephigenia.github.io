@@ -31,8 +31,11 @@ tags:
     - Vue.js
     - Webpack
 excerpt: |
-    Supporting justwatch’s team in refactoring the legacy angular application to modern vue and ionic 4.
+    Supporting company’s software development team to level up the hybrid web-application from angular to vue and ionic.
 ---
+Justwatch decided to update their pionieering, but somewhat outdated hybrid application approach to the next level.
+
+My part was to migrate the angular foundation to latterly released [Vue.js](https://vuejs.org) combined with [Redux](https://redux.js.org) while consuming the legacy API.
 
 > Marcel hat uns in unserer VueJS + Ionic Migration unterstützt und hervorragende Resultate geliefert. Obwohl VueJS neu für ihn war konnte ich von Anfang auf ihn zählen und brachte mit seiner jahrelanger Erfahrung gute Framework-agnostische Inputs.
 
