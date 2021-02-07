@@ -6,10 +6,12 @@ priority: 100
 ---
 ## Coding & Consulting since 2001
 
-Hi, I’m a freelance full-stack developer from Berlin, supporting agencies, businesses, and science projects with clean and fast performing [JavaScript](https://www.google.de/search?q=JavaScript) & [PHP](https://www.google.de/search?q=php) since 2001.
+Hi, I’m a freelance full-stack developer from Berlin, supporting agencies, businesses, and science projects with clean and fast performing [JavaScript](project/#JavaScript) & [PHP](project/#PHP) since 2001.
 
 Whether it’s back end or front end, apps or web-based services, consulting or coding – I love to tackle complex challenges and always strive for a clearly structured product. 
 
-Here are some of my references from 20 years of coding: Daimler AG, Deutsche Bahn, Axel Springer, Freie Universität Berlin, rbb, JustWatch, Footbonaut, WeSC.
+### Here are some of my references from 20 years of coding:
 
-Learn more about my [work](about) or [let me know how I can help you](mailto:{{site.email}}).
+Daimler AG, Deutsche Bahn, Axel Springer, Freie Universität Berlin, rbb, JustWatch, Footbonaut, WeSC.
+
+**[Learn more about my work](about) or [let me know how I can help you](./contact).**
