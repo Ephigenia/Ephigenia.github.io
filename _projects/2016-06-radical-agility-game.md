@@ -34,7 +34,7 @@ Auf dieser Basis habe ich die Spielmechanik realisiert, die Zuverlässigkeit der
 
 Es hat Spaß gemacht, nach längerer Zeit mal wieder ein Projekt mit der Agentur MoreSleep umzusetzen und dabei mal mit [Marc Storch](http://www.gopogo.de/)  zusammenzuarbeiten!
 
-## Referals
+## Recommendations
 
 > Ich durfte bereits mehrere Projekte mit Marcel umsetzten. Seine Expertise im Bereich der agilen Softwareentwicklung und Integration waren immer eine große Hilfe. Auch in brenzligen Situation bleibt er ruhig und hilft so dem Team das eigentliche Ziel im Auge zu behalten. Marcel ist mit seiner Ruhe und Professionalität der perfekte Partner in einem agilen Entwickler-Team.
 
