@@ -17,13 +17,13 @@ $base-line-height: 1.75;
 // $headline-font-family: "Roboto Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
 // @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap');
 $headline-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$headline-color: #f03c36;
-$headline2-color: #01874f;
+$headline-color: #e2231a;
+$headline2-color: #00833d;
 
 $text-color:       #000;
 $background-color: #fff;
 $text-muted:       mix($text-color, $background-color, 50%);
-$brand-color:      #f03c36;
+$brand-color:      #e2231a;
 $grey-color:       mix($background-color, $text-color, 85%);
 
 
