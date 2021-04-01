@@ -90,6 +90,11 @@ Jump to:
 
 Check my [profile on github](https://github.com/Ephigenia) to see some of my own open-source projects and contributions to other projects through the years. If you like my work you can [sponsor me](https://github.com/sponsors/Ephigenia).
 
+Two of my projects are important to me and actively maintained:
+
+- [ikea-availability-checker](https://github.com/Ephigenia/ikea-availability-checker) - Command-Line-Script & Library for checking the availability of specific IKEA products in specific stores and/or countries.
+- [mite-cli](https://github.com/Ephigenia/mite-cli) a easy-to-use but complex command line interface for the famous time-tracking service [mite](https://mite.yo.lk/).
+
 ## Expertise
 
 - Web-Application development in JavaScript & PHP
