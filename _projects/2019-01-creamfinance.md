@@ -35,6 +35,7 @@ tags:
     - Semver
     - Semantic Release
     - Swagger
+    - OpenAPI
     - Test Driven Development
     - Unit-Tests
     - Winston

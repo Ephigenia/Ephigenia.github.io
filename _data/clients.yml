@@ -1,6 +1,9 @@
 1und1:
   name: 1&1
   url: https://www.1und1.de/
+4scotty:
+  name: 4scotty
+  url: https://4scotty.com/
 abebooks:
   name: AbeBooks
   url: https://www.abebooks.de
