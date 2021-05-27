@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Footbonaut
-period: 2013 – today
+period: 2013 – 2017
 published: true
 clients:
     - cgoal
