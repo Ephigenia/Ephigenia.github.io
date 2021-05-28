@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Footbonaut
 period: 2013 – 2017
 published: true
