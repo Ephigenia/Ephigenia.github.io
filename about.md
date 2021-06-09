@@ -21,6 +21,7 @@ Let me know how I can support you.
 
 Contact: [{{site.email}}](mailto:{{site.email}}).
 
+<div class="d-print-none" markdown="1">
 Jump to:
 
 - [Marcel Eichner](#marcel-eichner)
@@ -31,6 +32,8 @@ Jump to:
 - [API](#api)
 - [Honors](#honors)
 - [Education](#education)
+
+</div>
 
 ## Projects
 

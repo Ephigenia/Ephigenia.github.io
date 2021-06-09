@@ -15,3 +15,9 @@ article.post .post-meta {
     margin-left: -1rem;
   }
 }
+
+.d-print-none {
+  @media print {
+    display: none;
+  }
+}
