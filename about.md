@@ -99,7 +99,7 @@ Two of my projects are important to me and actively maintained:
 
 - Web-Application development in JavaScript & PHP
 - Service & Microservice-Oriented Architectures
-- Test-Driven Development & Unit-Testing
+- Test-Driven Development, Automated Unit- & Integration-Testing
 - Refactoring & Improving Project Quality
 - Continuous Deployment & Integration
 - API-Design (REST, GraphQL)
@@ -114,7 +114,7 @@ Two of my projects are important to me and actively maintained:
     - NPM, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Loggly, moment, Winston
     - Mocha, Tape, Jasmine, Jest, Chai, Karma, Sinon, Istanbul, Nock, NYC, Supertest, postman, newman
     - mongoose, sequelize
-    - Express.js, loopback, fastify, NestJS
+    - Express.js, loopback, fastify, NestJS, Serverless
     - electron
     - Ionic, Cordova
     - CoffeeScript
@@ -140,12 +140,13 @@ Two of my projects are important to me and actively maintained:
     - Swagger, OpenAPI, ApiDoc, GraphQL
     - XRay
     - Tmux, Tmuxinator
+    - AWS SQS, Beanstalk, Api Gateway, Cloudfront, Cloud Formation, Kinesis, S3
 
 ## API
 
 Some of the APIs that I have consumed and worked with through the years:
 
-Adspirit, CircleCi, DHL, DPD, Facebook, Foursquare, Github, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Mattermost, Mite, Slack, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Yelp
+Adspirit, CircleCi, DHL, DPD, Facebook, Foursquare, GitHub, GitHub Actions, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Mattermost, Mite, Monday, Slack, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Yelp
 
 ## Honors
 
