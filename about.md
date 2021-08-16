@@ -137,13 +137,14 @@ Two of my projects are important to me and actively maintained:
 - Technologies
     - Redis, RabbitMQ, SQS, Kinesis
     - MySQL, MariaDb, PostgreSQL, SQLLite, MongoDB, Elasticsearch, Firebase, DynamoDB
+    - GitLab Pipeline, GitHub Actions, CircleCI, Atlassian Bamboo, Drone.io
     - Jekyll
     - Mailhog
     - Docker, Kubernetes
     - Swagger, OpenAPI, ApiDoc, GraphQL
     - XRay, APM
     - Tmux, Tmuxinator
-    - AWS SQS, Beanstalk, Api Gateway, Cloudfront, Cloud Formation, Kinesis, S3, DynamoDB
+    - AWS SQS, Beanstalk, API Gateway, EventBridge, CloudWatch, Cloud Formation, Kinesis, S3, DynamoDB
 
 ## API
 
