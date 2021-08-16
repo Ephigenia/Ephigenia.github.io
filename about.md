@@ -116,7 +116,7 @@ Two of my projects are important to me and actively maintained:
     - Vue.js, React, Angular, Backbone.js, jQuery, Highcharts, Highstock
     - NPM, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Loggly, moment, Winston
     - Mocha, Tape, Jasmine, Jest, Chai, Karma, Sinon, Istanbul, Nock, NYC, Supertest, postman, newman
-    - mongoose, sequelize
+    - mongoose, sequelize, dynamoose
     - Express.js, loopback, fastify, NestJS, Serverless
     - electron
     - Ionic, Cordova
@@ -135,21 +135,21 @@ Two of my projects are important to me and actively maintained:
 - HTML/Templating
     - TWIG, Smarty, Fluid, handlebars
 - Technologies
-    - Redis, RabbitMQ, SQS
-    - MySQL, MariaDb, PostgreSQL, SQLLite, MongoDB, Elasticsearch, Firebase
+    - Redis, RabbitMQ, SQS, Kinesis
+    - MySQL, MariaDb, PostgreSQL, SQLLite, MongoDB, Elasticsearch, Firebase, DynamoDB
     - Jekyll
     - Mailhog
     - Docker, Kubernetes
     - Swagger, OpenAPI, ApiDoc, GraphQL
-    - XRay
+    - XRay, APM
     - Tmux, Tmuxinator
-    - AWS SQS, Beanstalk, Api Gateway, Cloudfront, Cloud Formation, Kinesis, S3
+    - AWS SQS, Beanstalk, Api Gateway, Cloudfront, Cloud Formation, Kinesis, S3, DynamoDB
 
 ## API
 
 Some of the APIs that I have consumed and worked with through the years:
 
-Adspirit, CircleCi, DHL, DPD, Facebook, Foursquare, GitHub, GitHub Actions, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Mattermost, Mite, Monday, Slack, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Yelp
+Adspirit, CircleCi, DHL, DPD, Facebook, Foursquare, GitHub, GitHub Actions, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Maileon, Mattermost, Mite, Monday, Slack, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Yelp
 
 ## Honors
 
