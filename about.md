@@ -150,7 +150,7 @@ Two of my projects are important to me and actively maintained:
 
 Some of the APIs that I have consumed and worked with through the years:
 
-Adspirit, CircleCi, DHL, DPD, Facebook, Foursquare, GitHub, GitHub Actions, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Maileon, Mattermost, Mite, Monday, Slack, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Yelp
+Adspirit, CircleCi, DHL, DPD, Facebook, Foursquare, GitHub, GitHub Actions, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Maileon, Mattermost, Mite, Monday, Slack, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Vincere, Yelp
 
 ## Honors
 
