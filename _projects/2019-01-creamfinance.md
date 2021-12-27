@@ -29,6 +29,7 @@ tags:
     - Node.js
     - OpenAPI
     - PostgreSQL
+    - Postman
     - Push-Notifications
     - REST
     - Sinon
