@@ -67,6 +67,9 @@ dtagservices:
 dtad:
   name: DTAD Deutscher Auftragsdienst AG
   url: https://www.dtad.com/
+egoditor:
+  name: Egoditor
+  url: https://www.egoditor.com
 erstererster:
   name: ErsterErster
 escapio:
