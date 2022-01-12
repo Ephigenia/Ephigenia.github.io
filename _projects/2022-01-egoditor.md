@@ -5,7 +5,7 @@ period: 2022-01 – ongoing
 published: true
 approved: false
 clients:
-    - Egoditor
+    - egoditor
 tags:
     - Angular
     - AWS
