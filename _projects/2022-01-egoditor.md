@@ -15,6 +15,7 @@ tags:
     - Confluence
     - Continuous Deployment
     - Continuous Integration
+    - Crowdin
     - Docker
     - ESLint
     - GitHub
@@ -31,6 +32,9 @@ tags:
     - PHP
     - REST
     - S3
+    - Storyblok
+    - Storybook
+    - Terraform
     - Test Driven Development
     - TypeScript
     - Unit-Tests

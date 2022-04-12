@@ -95,8 +95,9 @@ Check my [profile on github](https://github.com/Ephigenia) to see some of my own
 
 Two of my projects are important to me and actively maintained:
 
-- [ikea-availability-checker](https://github.com/Ephigenia/ikea-availability-checker) - Command-Line-Script & Library for checking the availability of specific IKEA products in specific stores and/or countries.
+- [ikea-availability-checker](https://github.com/Ephigenia/ikea-availability-checker) - Command-Line-Interface & Library for checking the availability of specific IKEA products in specific stores and/or countries.
 - [mite-cli](https://github.com/Ephigenia/mite-cli) a easy-to-use but complex command line interface for the famous time-tracking service [mite](https://mite.yo.lk/).
+- [kontist-cli](https://github.com/Ephigenia/kontist-cli) - Command-Line-Interface for accessing transfers, making transactions, list and update cards of a [kontist](https://kontist.com/) bank account
 
 ## Expertise
 

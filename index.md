@@ -12,6 +12,6 @@ Whether it’s back end or front end, apps or web-based services, consulting or 
 
 ### Here are some of my references from 20 years of coding:
 
-Egoditor, 4scotty, Daimler AG, Deutsche Bahn, Axel Springer, Freie Universität Berlin, rbb, JustWatch, Footbonaut, Factor-Eleven, WeSC, Leica, BUND e.V., Spar, Zalando.
+Bitly, Egoditor, 4scotty, Daimler AG, Deutsche Bahn, Axel Springer, Freie Universität Berlin, rbb, JustWatch, Footbonaut, Factor-Eleven, WeSC, Leica, BUND e.V., Spar, Zalando.
 
 **[Learn more about my work](about) or [let me know how I can help you](./contact).**
