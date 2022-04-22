@@ -13,7 +13,7 @@ A born and bred Berliner, I've been working as a freelance developer since the a
 
 Whether it’s API development for a blockchain-based social network, leading a web app’s frontend team for Daimler AG, or consulting in science projects, I love to tackle complex challenges and always strive for a clearly structured product. 
 
-Looking back at 20 years of coding for successful – and failed – start-ups and businesses, I’m excelling in supporting project teams with concepts, consulting, and high-quality code covered by reliable automated tests.
+Looking back at 21 years of coding for successful – and failed – start-ups and businesses, I’m excelling in supporting project teams with concepts, consulting, and high-quality code covered by reliable automated tests.
 
 When I’m not working, you’ll find me playing around with [open-source technologies](https://www.github.com/{{site.github_username}}) or trying to prepare the perfect beef brisket on my [BBQ](https://www.instagram.com/{{site.instagram_username}}).
 
@@ -151,7 +151,7 @@ Two of my projects are important to me and actively maintained:
 
 Some of the APIs that I have consumed and worked with through the years:
 
-Adspirit, CircleCi, DHL, DPD, Facebook, Foursquare, GitHub, GitHub Actions, GitLab, Google Geocoding, Google Plus, Google Vision, Instagram, iTunes, Maileon, Mattermost, Mite, Monday, Slack, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Vincere, Yelp
+Adspirit, Bitly, CircleCi, DHL, DPD, Egoditor, Facebook, Foursquare, GitHub, GitHub Actions, GitLab, Google Geocoding, Google Plus, Google Vision, IKEA, Instagram, iTunes, Kontist, Maileon, Mattermost, Mite, Monday, Slack, Steemit, Spotify, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Vincere, Yelp
 
 ## Honors
 
