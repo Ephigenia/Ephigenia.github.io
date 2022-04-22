@@ -7,6 +7,8 @@ These are the sources of my website: [ephigenia.de](https://www.ephigenia.de). B
 
 ## Setup
 
+### Install Ruby
+
     make install
 
 ## Local Development
