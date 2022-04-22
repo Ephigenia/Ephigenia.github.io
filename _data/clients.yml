@@ -31,6 +31,9 @@ bertelsmann:
 berlinergazette:
   name: Berliner Gazette e.V.
   url: http://www.berlinergazette.de
+bitly-europe:
+  name: Bitly Europe GmbH
+  url: https://www.egoditor.com
 bevation:
   name: BeVation
 buzzup:

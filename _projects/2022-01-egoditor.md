@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Egoditor
+title: Bitly Europe (Egoditor)
 period: 2022-01 – ongoing
 published: true
 approved: false
 clients:
-    - egoditor
+    - bitly-europe
 tags:
     - Angular
     - AWS
