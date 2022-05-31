@@ -75,6 +75,14 @@ Jump to:
                 </ul>
             </dd>
             {% endif %}
+            {% if project.type %}
+            <dt>
+                type
+            </dt>
+            <dd>
+                {{ project.type }}
+            </dd>
+            {% endif %}
         </dl>
     </small>
     <br>

@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Bitly Europe (Egoditor)
-period: 2022-01 – ongoing
+period: 2022-01 – 2022-05
 published: true
 approved: false
 clients:
