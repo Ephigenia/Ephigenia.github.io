@@ -10,11 +10,13 @@ tags:
     - Angular
     - Bootstrap
     - CI
+    - CSS
     - Continuous Integration
     - Conventional-Changelog
     - ESLint
     - Gitlab
     - Gitlab CI
+    - HTML
     - i18n
     - Ionic
     - JavaScript
@@ -25,6 +27,7 @@ tags:
     - Redux  
     - Refactoring
     - REST
+    - SASS
     - Sinon
     - TypeScript
     - Unit-Tests

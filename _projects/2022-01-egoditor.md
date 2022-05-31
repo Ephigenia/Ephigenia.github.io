@@ -16,26 +16,34 @@ tags:
     - Continuous Deployment
     - Continuous Integration
     - Crowdin
+    - CSS
     - Docker
+    - ESBuild
     - ESLint
     - GitHub
     - GitHub Actions
+    - HTML
     - JavaScript
     - Jest
     - Jira
     - JWT
     - Lambda
     - Mailhog
+    - Make
     - MySQL
     - Node.js
     - OpenAPI
     - PHP
     - REST
     - S3
+    - SASS
+    - Smarty
     - Storyblok
     - Storybook
+    - Tailwind
     - Terraform
     - Test Driven Development
+    - TSLint
     - TypeScript
     - Unit-Tests
     - Vue.js

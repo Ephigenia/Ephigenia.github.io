@@ -17,18 +17,21 @@ tags:
     - Continuous Deployment
     - Continuous Integration
     - Conventional-Changelog
+    - CSS
     - ESLint
     - GitHub
     - grunt
     - heroku
+    - HTML
     - HTML
     - JavaScript
     - Karma
     - Mocha
     - OAuth
     - REST
-    - Semver
+    - SASS
     - Semantic Release
+    - Semver
     - Sentry.io
     - Test Driven Development
     - TypeScript

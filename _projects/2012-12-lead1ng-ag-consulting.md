@@ -8,8 +8,13 @@ clients:
 agencies:
     - foobugs
 tags:
+    - Bash
     - Consulting
+    - HTML
     - MySQL
+    - MySQL
+    - PHP
+    - SASS
 ---
 - Analyse, Dokumentation, Migrations-Szenario Analyse
 - Analyse, Dokumentation PHP Anwendung (Sicherheit, Qualität etc.)

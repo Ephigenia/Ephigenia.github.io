@@ -11,10 +11,12 @@ tags:
     - Facebook
     - GitHub
     - Guzzle
+    - HTML
     - MySQL
     - PHP
     - PHPUnit
     - REST
+    - SASS
     - Social-Network
     - Swagger
     - Symfony

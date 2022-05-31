@@ -21,6 +21,7 @@ tags:
     - Doctrine
     - grunt
     - i18n
+    - HTML
     - iOS
     - Jira
     - MySQL
@@ -29,6 +30,7 @@ tags:
     - PHPUnit
     - Project-Management
     - REST
+    - SASS
     - SCRUM
     - Social-Network
     - Symfony

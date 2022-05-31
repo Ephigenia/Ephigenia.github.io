@@ -5,7 +5,7 @@ permalink: /about/
 nav: true
 priority: 20
 ---
-<img class="post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/202006-Potsdam.jpg" title="Marcel Eichner" />
+<img class="post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/202006-Potsdam.jpg" alt="Portait of Marcel Eichner" />
 
 ## Marcel Eichner
 
