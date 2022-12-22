@@ -54,8 +54,7 @@ Ephigenia M. Eichner
 Mozarstr. 9   
 15566 Schöneiche   
 Deutschland  
-
-Tel.: {{ site.tel }}  
+ 
 E-Mail: [{{ site.email }}](mailto:{{site.email}})  
 Website: www.ephigenia.de  
 

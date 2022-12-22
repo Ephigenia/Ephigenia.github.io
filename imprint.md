@@ -13,7 +13,6 @@ Mozartstr. 9
 15566 Schöneiche  
 Germany   
 [{{ site.email }}](mailto:{{site.email}})  
-{{site.tel}}
 
 USt. IdNr. DE216293365
 
