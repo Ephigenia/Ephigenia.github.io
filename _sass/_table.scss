@@ -3,7 +3,6 @@ table {
   border-spacing: 0;
   thead {
     th {
-      @extend strong;
       border-bottom: 2px solid $grey-color;
     }
   }

@@ -52,9 +52,9 @@ ul {
 // definition lists
 dl {
   margin-bottom: 1rem;
-  > dt {
-    @extend strong;
-  }
+  // > dt {
+  //   // @extend strong;
+  // }
 
   &.list-inline {
     display: inline;
