@@ -33,13 +33,19 @@ ul {
 h1 {
   margin-left: -2rem;
   font-size: 5rem;
-  line-height: 4rem;
+  line-height: 100%;
+  @media (max-width:961px) {
+    font-size: 3rem;
+  }
   color: $headline-color;
 }
 
 h2 {
   font-size: 2rem;
-  line-height: 3rem;
+  line-height: 100%;
+  @media (max-width:961px) {
+    font-size: 1.75rem;
+  }
   color: $headline2-color;
   margin-left: -0.5em;
 }
