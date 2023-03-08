@@ -34,6 +34,7 @@ Jump to:
 - [Education](#education)
 
 </div>
+<hr class="page-break" />
 
 ## Projects
 
@@ -97,6 +98,7 @@ Jump to:
   List of {{ site.projects.size }} projects in chronological order. Websites may be offline. Project names or client names may be codenames.
 </p>
 
+<hr class="page-break" />
 ## Open Source
 
 Check my [profile on github](https://github.com/Ephigenia) to see some of my own open-source projects and contributions to other projects through the years. If you like my work you can [sponsor me](https://github.com/sponsors/Ephigenia).

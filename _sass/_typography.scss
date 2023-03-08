@@ -1,12 +1,15 @@
-body {
+body, html {
   color: $text-color;
+  line-height: $base-line-height;
+  font-size: $base-font-size;
   @media (prefers-color-scheme: dark) {
     color:invert($text-color);
   }
   @media print {
-    font-size: $base-font-size * 0.5;
+    font-size: $base-font-size * 0.75 !important;
   }
 }
+
 
 figcaption {
   font-size: 0.75em;
@@ -99,6 +102,17 @@ a {
   color: $text-muted;
   @media (prefers-color-scheme: dark) {
     color: invert($text-muted);
+  }
+}
+
+hr.page-break {
+  display: none;
+  @media print {
+    display: block;
+    color: transparent;
+    height: 0px;
+    border: none;
+    page-break-after: always;
   }
 }
 
