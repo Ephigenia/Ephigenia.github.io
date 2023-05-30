@@ -125,7 +125,7 @@ Two of my projects are important to me and actively maintained:
 - Version Control Systems: git, svn, cvs
 - JavaScript/Node.js
     - Vue.js, React, Angular, Backbone.js, jQuery, Highcharts, Highstock
-    - NPM, cheerio, PM2, grunt, Bower, WebPack, Winston, Commander, Loggly, moment, Winston
+    - NPM, cheerio, PM2, grunt, Bower, WebPack, Winston, Pino, Commander, Loggly, moment, Winston
     - Mocha, Tape, Jasmine, Jest, Chai, Karma, Sinon, Istanbul, Nock, NYC, Supertest, postman, newman
     - mongoose, sequelize, dynamoose
     - Express.js, loopback, fastify, NestJS, Serverless
@@ -146,6 +146,7 @@ Two of my projects are important to me and actively maintained:
 - HTML/Templating
     - TWIG, Smarty, Fluid, handlebars
 - Technologies
+    - Terraform
     - Redis, RabbitMQ, SQS, Kinesis
     - MySQL, MariaDb, PostgreSQL, SQLLite, MongoDB, Elasticsearch, Firebase, DynamoDB
     - GitLab Pipeline, GitHub Actions, CircleCI, Atlassian Bamboo, Drone.io
@@ -153,9 +154,9 @@ Two of my projects are important to me and actively maintained:
     - Mailhog
     - Docker, Kubernetes
     - Swagger, OpenAPI, ApiDoc, GraphQL
-    - XRay, APM
+    - XRay, APM, Datadog
     - Tmux, Tmuxinator
-    - AWS SQS, Lambda, Beanstalk, API Gateway, EventBridge, CloudWatch, CloudFormation, Kinesis, S3, DynamoDB
+    - AWS SQS, Lambda, Beanstalk, API Gateway, EventBridge, CloudWatch, CloudFormation, Kinesis, S3, DynamoDB, Aurora, Secrets Manager
 
 ## API
 
