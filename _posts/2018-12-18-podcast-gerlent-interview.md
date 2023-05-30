@@ -10,7 +10,7 @@ Ende 2018 konnte ich durch eine Vermittlung durch das Freelancer Netwerk [{{site
 
 Dadurch ergab sich die Gelegenheit an einer Inteview-Reihe zum Thema „Remote Work“ teilzunehmen zu welcher Gerlent eingalden hatte welche später als Podcast veröffentlicht werden sollte.
 
-Falls euch interessiert was ich dazu zu sagen habe würde es mich freuen wenn ihr mal [reinhört](https://www.gerlent.com/blog/2018/12/podcast-folge013-marcel-eichner).
+Falls euch interessiert was ich dazu zu sagen habe würde es mich freuen wenn ihr mal reinhört:
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0af7f7w5bt1CPRlMIhdO39?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
