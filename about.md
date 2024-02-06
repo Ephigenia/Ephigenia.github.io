@@ -157,7 +157,7 @@ Two of my projects are important to me and actively maintained:
     - Swagger, OpenAPI, ApiDoc, GraphQL
     - XRay, APM, Datadog
     - Tmux, Tmuxinator
-    - AWS SQS, Lambda, Beanstalk, API Gateway, EventBridge, CloudWatch, CloudFormation, Kinesis, S3, DynamoDB, Aurora, Secrets Manager
+    - AWS SQS, Lambda, Beanstalk, API Gateway, EventBridge, CloudWatch, CloudFormation, Kinesis, S3, DynamoDB, Aurora, Secrets Manager, ECR, ECS, EC2, CloudFromation, IAM, RDS, WAF, Shield, Systems Manager etc.
 
 ## API
 
