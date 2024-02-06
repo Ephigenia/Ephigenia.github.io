@@ -133,6 +133,7 @@ Two of my projects are important to me and actively maintained:
     - Ionic, Cordova
     - CoffeeScript
 - TypeScript
+- Go
 - PHP
     - Symfony, CakePHP
     - monolog
