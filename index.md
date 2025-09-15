@@ -6,7 +6,7 @@ priority: 100
 ---
 ## Coding & Consulting since 2001
 
-Hi, I’m a formerly freelance full-stack developer from Berlin working for [Bitly](https://bitly.com) [Europe](https://www.qr-code-generator.com). Beforehand I was supporting agencies, businesses, and science projects with clean and fast performing [JavaScript](project/#JavaScript)/[#Typescript](https://www.typescriptlang.org) & [PHP](project/#PHP) since 2001.
+Hi, I’m a formerly freelance full-stack developer from Berlin working for [Bitly](https://bitly.com). Beforehand I was supporting agencies, businesses, and science projects with clean and fast performing [JavaScript](project/#JavaScript)/[#Typescript](https://www.typescriptlang.org) & [PHP](project/#PHP) since 2001.
 
 Whether it’s back end or front end, apps or web-based services, consulting or coding – I love to tackle complex challenges and always strive for a clearly structured product. 
 
