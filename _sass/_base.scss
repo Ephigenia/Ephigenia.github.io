@@ -21,3 +21,21 @@ article.post .post-meta {
     display: none;
   }
 }
+
+
+
+// about page hover effect
+.switch-on-hover {
+  border: 1px solid red;
+  .hover {
+    display: none;
+  }
+  &:hover {
+    .show {
+      display: none;
+    }
+    .hover {
+      display: block;
+    }
+  }
+}

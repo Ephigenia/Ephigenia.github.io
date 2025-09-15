@@ -5,9 +5,9 @@ permalink: /about/
 nav: true
 priority: 20
 ---
-<span class="swtich-on-hover">
-<img class="show post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/202006-Potsdam.jpg" alt="Portait of Marcel Eichner" />
-<img class="hover post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/202006-Potsdam-simpsons.jpg" alt="Portait of Marcel Eichner" />
+<span class="switch-on-hover">
+    <img class="show post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/202006-Potsdam.jpg" alt="Portait of Marcel Eichner" />
+    <img class="hover post-image-pushed-right post-image-25p" src="{{ site.baseurl }}/assets/202006-Potsdam-simpsons.png" alt="Portait of Marcel Eichner" />
 <span>
 
 ## Marcel Eichner
