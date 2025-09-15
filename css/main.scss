@@ -44,3 +44,18 @@ $on-laptop:        800px;
   "site_nav",
   "typo_mona_sans"
 ;
+
+// about page hover effect
+.switch-on-hover {
+  .hover-hide {
+    display: none;
+  }
+  &:hover {
+    .hover-hide {
+      display: none;
+    }
+    .hover-show {
+      display: block;
+    }
+  }
+}
