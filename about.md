@@ -126,6 +126,8 @@ Two of my projects are important to me and actively maintained:
 ## Skills
 
 - Version Control Systems: git, svn, cvs
+- Go
+- TypeScript
 - JavaScript/Node.js
     - Vue.js, React, Angular, Backbone.js, jQuery, Highcharts, Highstock
     - NPM, cheerio, PM2, grunt, Bower, WebPack, Winston, Pino, Commander, Loggly, moment, Winston
@@ -135,8 +137,6 @@ Two of my projects are important to me and actively maintained:
     - electron
     - Ionic, Cordova
     - CoffeeScript
-- TypeScript
-- Go
 - PHP
     - Symfony, CakePHP
     - monolog
