@@ -20,7 +20,7 @@ Looking back at 21 years of coding for successful – and failed – start-ups a
 
 When I’m not working, you’ll find me playing around with [open-source technologies](https://www.github.com/{{site.github_username}}) or trying to prepare the perfect beef brisket on my [BBQ](https://www.instagram.com/{{site.instagram_username}}).
 
-Let me know how I can support you.
+If you think I could support your project, feel free to get in touch.
 
 Contact: [{{site.email}}](mailto:{{site.email}}).
 
@@ -166,7 +166,7 @@ Two of my projects are important to me and actively maintained:
 
 Some of the APIs that I have consumed and worked with through the years:
 
-Adspirit, Bitly, CircleCi, Crowdin, DHL, DPD, Egoditor, Facebook, Foursquare, GitHub, GitHub Actions, GitLab, Google Geocoding, Google Plus, Google Vision, IKEA, Instagram, iTunes, Kontist, Maileon, Mattermost, Mite, Monday, Slack, Steemit, Spotify, Storyblok, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Vincere, Yelp
+Adspirit, AWS, Bitly, CircleCi, Crowdin, DHL, Docker, DPD, Egoditor, Facebook, Foursquare, GitHub, GitHub Actions, GitLab, Google Geocoding, Google Plus, Google Vision, IKEA, Instagram, iTunes, Kontist, Maileon, Mattermost, Mite, Monday, Slack, Steemit, Spotify, Storyblok, Twitter, Yahoo Stock/Finance & Weather, UPS, Vimeo, Vincere, Yelp, Zalandoh
 
 ## Honors
 
