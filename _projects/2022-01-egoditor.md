@@ -41,6 +41,7 @@ tags:
     - Storyblok
     - Storybook
     - Tailwind
+    - IaC
     - Terraform
     - Test Driven Development
     - TSLint
