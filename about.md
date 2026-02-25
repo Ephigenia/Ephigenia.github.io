@@ -114,7 +114,8 @@ Two of my projects are important to me and actively maintained:
 
 ## Expertise
 
-- Web-Application development in JavaScript & PHP
+- Infrastructure as Code (IaC) with terraform / opentofu
+- Web-Application development in JavaScript, Go & PHP
 - Service & Microservice-Oriented Architectures
 - Test-Driven Development, Automated Unit- & Integration-Testing
 - Refactoring & Improving Project Quality

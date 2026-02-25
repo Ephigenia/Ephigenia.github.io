@@ -5,7 +5,7 @@ nav: true
 priority: 10
 ---
 ## Marcel Eichner
-### Full-stack JavaScript & PHP developer from Berlin
+### Full-stack Go, JavaScript & PHP developer from Berlin
 
 Let me know how I can support you.   
 Contact: [{{site.email}}](mailto:{{site.email}})
